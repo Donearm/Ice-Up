@@ -1,12 +1,12 @@
 package main
 
 import (
-	"fmt"
 	"strings"
 	"path/filepath"
 	"net/http"
 	"io/ioutil"
 	"encoding/json"
+	"html/template"
 )
 
 const path string = "./json/"
@@ -66,7 +66,8 @@ func homeHandler(w http.ResponseWriter, r *http.Request) {
 	var p Page
 	p.Title = "Homepage"
 	p.Body = "/"
-	fmt.Fprintf(w, "<h1>%s</h1><div><p>Hello! You are at %s</p></div>", p.Title, p.Body)
+	t, _ := template.ParseFiles("index.html")
+	t.Execute(w, p)
 }
 
 // Serve specific recipe page
@@ -76,7 +77,8 @@ func recipeHandler(w http.ResponseWriter, r *http.Request) {
 	if err != nil {
 		rec = &Recipe{Name: "Not found"}
 	}
-	fmt.Fprintf(w, "<h1>%s</h1>", rec.Name)
+	t, _ := template.ParseFiles("recipe.html")
+	t.Execute(w, rec)
 }
 
 func main() {
