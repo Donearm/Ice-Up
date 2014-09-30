@@ -67,7 +67,7 @@ func loadPage(title, body string) *Page {
 // Serve homepage
 func homeHandler(w http.ResponseWriter, r *http.Request) {
 	var p Page
-	p.Title = "Homepage"
+	p.Title = "Ice Up! - Homepage"
 	p.Body = "/"
 	err := templates.ExecuteTemplate(w, "index.html", p)
 	if err != nil {
