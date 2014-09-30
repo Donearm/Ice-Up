@@ -7,29 +7,33 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link rel="stylesheet" href="style.css">
+
   </head>
   <body>
 
     <h1>{{.Name}}</h1>
     <div><p>{{.Method}}</p></div>
 
+    {{if .Ingredients}}
     <div>
     <p>
     <ul>
       {{range .Ingredients}}
         {{if .Parts}}
-        <li><b>{{.Parts}} parts/{{.Amount}}{{.AmountUnits}}</b> <i>{{.IngredientName}}</i><li>
+        <li><div id="amount">{{.Parts}} parts/{{.Amount}}{{.AmountUnits}}</div> <div id="ingredient">{{.IngredientName}}</div><li>
         {{else}}
           {{if .AmountUnits}}
-          <li><b>{{.Amount}}{{.AmountUnits}}</b> <i>{{.IngredientName}}</i></li>
+          <li><div id="amount">{{.Amount}}{{.AmountUnits}}</div> <div id="ingredient">{{.IngredientName}}</div></li>
           {{else}}
-          <li><b>{{.Amount}}</b> <i>{{.IngredientName}}</i></li>
+          <li><div id="amount">{{.Amount}}</div> <div id="ingredient">{{.IngredientName}}</div></li>
           {{end}}
         {{end}}
       {{end}}
     </ul>
     </p>
     </div>
+    {{end}}
 
   </body>
 </html>

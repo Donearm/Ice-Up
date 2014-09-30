@@ -1,0 +1,18 @@
+body {
+	background-color: #ebebeb;
+	font-size: 18px;
+	color: #343434;
+	letter-spacing: 0.2rem;
+}
+
+#ingredient {
+	font-style: italic;
+}
+
+#amount {
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+}
