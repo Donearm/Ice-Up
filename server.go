@@ -11,6 +11,8 @@ import (
 
 // Path of cocktail's recipes
 const path string = "./json/"
+// Initialize all templates at start
+var templates = template.Must(template.ParseFiles("index.html", "recipe.html"))
 
 // A single recipe
 type Recipe struct {
@@ -67,14 +69,10 @@ func homeHandler(w http.ResponseWriter, r *http.Request) {
 	var p Page
 	p.Title = "Homepage"
 	p.Body = "/"
-	t, err := template.ParseFiles("index.html")
+	err := templates.ExecuteTemplate(w, "index.html", p)
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
-	}
-	err = t.Execute(w, p)
-	if err != nil {
-		http.Error(w, err.Error(), http.StatusInternalServerError)
 	}
 }
 
@@ -85,14 +83,10 @@ func recipeHandler(w http.ResponseWriter, r *http.Request) {
 	if err != nil {
 		rec = &Recipe{Name: "Not found"}
 	}
-	t, err := template.ParseFiles("recipe.html")
-	if err != nil {
-		http.Error(w, err.Error(), http.StatusInternalServerError)
+	t_err := templates.ExecuteTemplate(w, "recipe.html", rec)
+	if t_err != nil {
+		http.Error(w, t_err.Error(), http.StatusInternalServerError)
 		return
-	}
-	err = t.Execute(w, rec)
-	if err != nil {
-		http.Error(w, err.Error(), http.StatusInternalServerError)
 	}
 }
 
