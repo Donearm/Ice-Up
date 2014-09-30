@@ -66,8 +66,15 @@ func homeHandler(w http.ResponseWriter, r *http.Request) {
 	var p Page
 	p.Title = "Homepage"
 	p.Body = "/"
-	t, _ := template.ParseFiles("index.html")
-	t.Execute(w, p)
+	t, err := template.ParseFiles("index.html")
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	err = t.Execute(w, p)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+	}
 }
 
 // Serve specific recipe page
@@ -77,8 +84,15 @@ func recipeHandler(w http.ResponseWriter, r *http.Request) {
 	if err != nil {
 		rec = &Recipe{Name: "Not found"}
 	}
-	t, _ := template.ParseFiles("recipe.html")
-	t.Execute(w, rec)
+	t, err := template.ParseFiles("recipe.html")
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	err = t.Execute(w, rec)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+	}
 }
 
 func main() {
