@@ -45,12 +45,12 @@ func GetRecipe(id string) (*Recipe, error) {
 	var recipe *Recipe
 	f, err := ioutil.ReadFile(path + id)
 	if err != nil {
-		fmt.Println(err)
+		return recipe, err
 	}
 
 	unmarshal_err := json.Unmarshal(f, &recipe)
 	if unmarshal_err != nil {
-		fmt.Println(unmarshal_err)
+		return recipe, unmarshal_err
 	}
 
 	return recipe, unmarshal_err
@@ -74,9 +74,9 @@ func recipeHandler(w http.ResponseWriter, r *http.Request) {
 	title := r.URL.Path[len("/id/"):]
 	rec, err := GetRecipe(title + ".json")
 	if err != nil {
-		panic(err)
+		rec = &Recipe{Name: "Not found"}
 	}
-	fmt.Fprintf(w, "<h1>%s</h1><div><p>%s</p></div>", rec.Name, rec.Method)
+	fmt.Fprintf(w, "<h1>%s</h1>", rec.Name)
 }
 
 func main() {
