@@ -11,7 +11,25 @@
   <body>
 
     <h1>{{.Name}}</h1>
-    <div><p>{{printf "%s" .Method}}</p></div>
+    <div><p>{{.Method}}</p></div>
+
+    <div>
+    <p>
+    <ul>
+      {{range .Ingredients}}
+        {{if .Parts}}
+        <li><b>{{.Parts}} parts/{{.Amount}}{{.AmountUnits}}</b> <i>{{.IngredientName}}</i><li>
+        {{else}}
+          {{if .AmountUnits}}
+          <li><b>{{.Amount}}{{.AmountUnits}}</b> <i>{{.IngredientName}}</i></li>
+          {{else}}
+          <li><b>{{.Amount}}</b> <i>{{.IngredientName}}</i></li>
+          {{end}}
+        {{end}}
+      {{end}}
+    </ul>
+    </p>
+    </div>
 
   </body>
 </html>
