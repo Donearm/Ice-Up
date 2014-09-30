@@ -12,7 +12,7 @@ import (
 // Path of cocktail's recipes
 const path string = "./json/"
 // Initialize all templates at start
-var templates = template.Must(template.ParseFiles("index.html", "recipe.html"))
+var templates = template.Must(template.ParseFiles("tmpl/index.html", "tmpl/recipe.html"))
 
 // A single recipe
 type Recipe struct {
