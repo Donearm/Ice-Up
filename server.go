@@ -9,6 +9,7 @@ import (
 	"html/template"
 )
 
+// Path of cocktail's recipes
 const path string = "./json/"
 
 // A single recipe
