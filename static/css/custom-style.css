@@ -17,6 +17,15 @@ body,input,textarea,select {
 	position: relative;
 	overflow: hidden;
 	width: 100%;
+	-webkit-transform: translateX(300px);
+	-moz-transform: translateX(300px);
+	-o-transform: translateX(300px);
+	-ms-transform: translateX(300px);
+	transform: translateX(300px);
+}
+#recipe-body {
+	position: relative;
+	width: 100%;
 }
 
 #ingredient {
@@ -29,6 +38,7 @@ body,input,textarea,select {
 
 ul {
 	list-style-type: none;
+	padding: 0;
 }
 h1 { font-size: 2.4em; }
 h2 { font-size: 1.8em; }
