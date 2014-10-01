@@ -1,0 +1,37 @@
+html {
+	min-width: 100%;
+	min-height: 100%;
+}
+body {
+	background-color: #ebebeb;
+	font-size: 18px;
+	color: #343434;
+	letter-spacing: 0.2rem;
+}
+body,input,textarea,select {
+	font-size: 14pt;
+	line-height: 1.74em;
+}
+
+#wrapper {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+
+#ingredient {
+	font-style: italic;
+}
+
+#amount {
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+}
+h1 { font-size: 2.4em; }
+h2 { font-size: 1.8em; }
+h3 { font-size: 1.45em; }
+h4, h5, h6 { font-size: 1.25em; }
+h1,h2,h3,h4,h5,h6 { letter-spacing: -0.015em; }
