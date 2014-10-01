@@ -69,7 +69,7 @@ func loadPage(title, body string) *Page {
 func homeHandler(w http.ResponseWriter, r *http.Request) {
 	var p Page
 	p.Title = "Ice Up! - Homepage"
-	p.Body = "/"
+	p.Body = "A quick and easy way to look up cocktail recipes"
 	err := templates.ExecuteTemplate(w, "index.html", p)
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
