@@ -5,6 +5,12 @@ body {
 	letter-spacing: 0.2rem;
 }
 
+#wrapper {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+
 #ingredient {
 	font-style: italic;
 }
