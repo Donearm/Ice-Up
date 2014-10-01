@@ -17,6 +17,15 @@ body,input,textarea,select {
 	position: relative;
 	overflow: hidden;
 	width: 100%;
+}
+#menu {
+	width: 70%;
+	height: 100%;
+	padding: 10px;
+}
+#recipe-content {
+	position: relative;
+	width: 100%;
 	-webkit-transform: translateX(300px);
 	-moz-transform: translateX(300px);
 	-o-transform: translateX(300px);
@@ -24,7 +33,6 @@ body,input,textarea,select {
 	transform: translateX(300px);
 }
 #recipe-body {
-	position: relative;
 	width: 100%;
 }
 

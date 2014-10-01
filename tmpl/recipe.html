@@ -13,28 +13,30 @@
   <body>
     <div id="wrapper">
 
-      <header>
-        <h1>{{.Name}}</h1>
-      </header>
-      <div id="recipe-body"><p>{{.Method}}</p>
+      <div id="recipe-content">
+        <header>
+          <h1>{{.Name}}</h1>
+        </header>
+        <div id="recipe-body"><p>{{.Method}}</p>
 
-      {{if .Ingredients}}
-      <p>
-      <ul>
-        {{range .Ingredients}}
-          {{if .Parts}}
-          <li><div id="amount">{{.Parts}} parts/{{.Amount}}{{.AmountUnits}}</div> <div id="ingredient">{{.IngredientName}}</div><li>
-          {{else}}
-            {{if .AmountUnits}}
-            <li><div id="amount">{{.Amount}}{{.AmountUnits}}</div> <div id="ingredient">{{.IngredientName}}</div></li>
+        {{if .Ingredients}}
+        <p>
+        <ul>
+          {{range .Ingredients}}
+            {{if .Parts}}
+            <li><div id="amount">{{.Parts}} parts/{{.Amount}}{{.AmountUnits}}</div> <div id="ingredient">{{.IngredientName}}</div><li>
             {{else}}
-            <li><div id="amount">{{.Amount}}</div> <div id="ingredient">{{.IngredientName}}</div></li>
+              {{if .AmountUnits}}
+              <li><div id="amount">{{.Amount}}{{.AmountUnits}}</div> <div id="ingredient">{{.IngredientName}}</div></li>
+              {{else}}
+              <li><div id="amount">{{.Amount}}</div> <div id="ingredient">{{.IngredientName}}</div></li>
+              {{end}}
             {{end}}
           {{end}}
+        </ul>
+        </p>
         {{end}}
-      </ul>
-      </p>
-      {{end}}
+      </div>
 
     </div>
   </body>
