@@ -17,6 +17,7 @@ var templates = template.Must(template.ParseFiles("tmpl/index.html", "tmpl/recip
 
 // A single recipe
 type Recipe struct {
+	Title		string
 	Id          string `json: "id"`
 	Name        string `json: "name"`
 	Description string `json: "description"`
@@ -84,6 +85,7 @@ func recipeHandler(w http.ResponseWriter, r *http.Request) {
 	if err != nil {
 		rec = &Recipe{Name: "Not found"}
 	}
+	rec.Title = "Ice Up! - " + rec.Name + " recipe"
 	t_err := templates.ExecuteTemplate(w, "recipe.html", rec)
 	if t_err != nil {
 		http.Error(w, t_err.Error(), http.StatusInternalServerError)
