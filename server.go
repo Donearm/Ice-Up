@@ -93,6 +93,7 @@ func recipeHandler(w http.ResponseWriter, r *http.Request) {
 func main() {
 	http.HandleFunc("/", homeHandler)
 	http.HandleFunc("/id/", recipeHandler)
+	// Serve css and other static files
+	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./static/"))))
 	http.ListenAndServe(":8080", nil)
 }
-
