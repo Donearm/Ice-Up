@@ -1,40 +1,41 @@
 package main
 
 import (
-	"strings"
-	"path/filepath"
-	"net/http"
-	"io/ioutil"
 	"encoding/json"
 	"html/template"
+	"io/ioutil"
+	"net/http"
+	"path/filepath"
+	"strings"
 )
 
 // Path of cocktail's recipes
 const path string = "./data/"
+
 // Initialize all templates at start
 var templates = template.Must(template.ParseFiles("tmpl/index.html", "tmpl/recipe.html"))
 
 // A single recipe
 type Recipe struct {
-	Id string `json: "id"`
-	Name string `json: "name"`
+	Id          string `json: "id"`
+	Name        string `json: "name"`
 	Description string `json: "description"`
-	Method string `json: "method"`
-	Variations string `json: "variations"`
+	Method      string `json: "method"`
+	Variations  string `json: "variations"`
 	Ingredients []struct {
-		Parts string `json: "parts"`
-		Amount string `json: "amount"`
-		AmountUnits string `json: "amountUnits"`
+		Parts          string `json: "parts"`
+		Amount         string `json: "amount"`
+		AmountUnits    string `json: "amountUnits"`
 		IngredientName string `json: "ingredientName"`
 	} `json: "ingredients"`
-	Glass string `json: "glass"`
+	Glass   string `json: "glass"`
 	Garnish string `json: "garnish"`
 }
 
 // A Page skeleton
 type Page struct {
-	Title	string
-	Body	string
+	Title string
+	Body  string
 }
 
 // Remove extension, if any, from a path, returning just basename of the file
