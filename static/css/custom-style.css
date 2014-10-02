@@ -26,6 +26,7 @@ body,input,textarea,select {
 #recipe-content {
 	position: relative;
 	width: 100%;
+	padding: 1em;
 	-webkit-transform: translateX(300px);
 	-moz-transform: translateX(300px);
 	-o-transform: translateX(300px);
