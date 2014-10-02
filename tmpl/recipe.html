@@ -24,12 +24,18 @@
         <ul>
           {{range .Ingredients}}
             {{if .Parts}}
-            <li><div id="amount">{{.Parts}} parts/{{.Amount}}{{.AmountUnits}}</div> <div id="ingredient">{{.IngredientName}}</div><li>
+            <div id="ingredient-line">
+              <li><div id="amount">{{.Parts}} parts/{{.Amount}}{{.AmountUnits}}</div> <div id="ingredient">{{.IngredientName}}</div><li>
+            </div>
             {{else}}
               {{if .AmountUnits}}
-              <li><div id="amount">{{.Amount}}{{.AmountUnits}}</div> <div id="ingredient">{{.IngredientName}}</div></li>
+              <div id="ingredient-line">
+                <li><div id="amount">{{.Amount}}{{.AmountUnits}}</div> <div id="ingredient">{{.IngredientName}}</div></li>
+              </div>
               {{else}}
-              <li><div id="amount">{{.Amount}}</div> <div id="ingredient">{{.IngredientName}}</div></li>
+              <div id="ingredient-line">
+                <li><div id="amount">{{.Amount}}</div> <div id="ingredient">{{.IngredientName}}</div></li>
+              </div>
               {{end}}
             {{end}}
           {{end}}

@@ -36,6 +36,12 @@ body,input,textarea,select {
 	width: 100%;
 }
 
+#ingredient-line {
+	color: #343434;
+	transition-property: color;
+	transition-duration: 3s;
+}
+#ingredient-line:hover { color: blue; }
 #ingredient {
 	font-style: italic;
 }
