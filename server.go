@@ -69,12 +69,27 @@ func loadPage(title, body string) *Page {
 // Serve homepage
 func homeHandler(w http.ResponseWriter, r *http.Request) {
 	var p Page
-	p.Title = "Ice Up! - Homepage"
-	p.Body = "A quick and easy way to look up cocktail recipes"
-	err := templates.ExecuteTemplate(w, "index.html", p)
-	if err != nil {
-		http.Error(w, err.Error(), http.StatusInternalServerError)
-		return
+	name := r.FormValue("query")
+	if name != "" {
+		rec, rec_err := GetRecipe(name + ".json")
+		if rec_err != nil {
+			rec = &Recipe{Name: "Not found"}
+		}
+		p.Title = "Ice Up! - " + rec.Name + " recipe"
+		p.Body = "You searched for " + name
+		err := templates.ExecuteTemplate(w, "index.html", p)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			return
+		}
+	} else {
+		p.Title = "Ice Up! - Homepage"
+		p.Body = "A quick and easy way to look up cocktail recipes"
+		err := templates.ExecuteTemplate(w, "index.html", p)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			return
+		}
 	}
 }
 
