@@ -1,0 +1,14 @@
+<div>
+  <h1>{{recipe.name}}</h1>
+  <p>{{recipe.description}}</p>
+  <p>{{recipe.method}}</p>
+  <p>{{recipe.glass}}</p>
+  <ul>
+    <li data-ng-repeat="ing in recipe.ingredients">
+      {{ingredient.parts}} / 
+      {{ingredient.amount}}{{ingredient.amountUnits}} 
+      {{ingredient.ingredientName}}</li>
+  </ul>
+  <p>{{recipe.garnish}}</p>
+  <a href="#/recipes">Back to recipes' list</a>
+</div>

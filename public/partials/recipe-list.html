@@ -1,0 +1,10 @@
+<div>
+<input type="text" data-ng-model="query"></input>
+
+  <a href="#/data/{{recipe.id}}" data-ng-repeat="rec in recipes | filter:query">
+    {{recipe.name}}</a>
+  <ul>
+    <li data-ng-repeat="ing in rec.ingredients">
+      {{ing.ingredientName}}</li>
+  </ul>
+</div>
