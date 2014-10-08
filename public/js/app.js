@@ -13,17 +13,17 @@ iceupApp.config(function ($routeProvider) {
 		.otherwise({ redirectTo: '/recipes' });
 });
 
-iceupApp.controller('RecipeListController', ['$scope', 'getRecipe',
-		function($scope, getRecipe) {
-			$scope.recipes = getRecipe.query();
+iceupApp.controller('RecipeListController', ['$scope', 'GetRecipe',
+		function($scope, GetRecipe) {
+			$scope.recipes = GetRecipe.query();
 		}]);
-iceupApp.controller('RecipeIdController', ['$scope', '$routeParams', 'getRecipe',
-		function($scope, $routeParams, getRecipe) {
-			$scope.recipe = getRecipe.get({recipeId: $routeParams.recipeId}, function(recipe) {
+iceupApp.controller('RecipeIdController', ['$scope', '$routeParams', 'GetRecipe',
+		function($scope, $routeParams, GetRecipe) {
+			$scope.recipe = GetRecipe.get({recipeId: $routeParams.recipeId}, function(recipe) {
 			});
 		}]);
 
-iceupApp.factory('getRecipe', ['$resource',
+iceupApp.factory('GetRecipe', ['$resource',
 		function($resource) {
 			return $resource('/data/:recipeId.json', {}, {
 				query: {method: 'GET', params: { recipeId: '@id'}, isArray: false}
