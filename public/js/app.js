@@ -25,7 +25,7 @@ iceupApp.controller('RecipeIdController', ['$scope', '$routeParams', 'GetRecipe'
 
 iceupApp.factory('GetRecipe', ['$resource',
 		function($resource) {
-			return $resource('/data/:recipeId.json', {}, {
+			return $resource('data/:recipeId.json', {}, {
 				query: {method: 'GET', params: { recipeId: '@id'}, isArray: false}
 			});
 		}]);
