@@ -1,5 +1,5 @@
 <div>
-<input type="text" data-ng-model="query"></input>
+<input type="text" placeholder="search" data-ng-model="query"></input>
 
   <a href="#/data/{{rec.id}}" data-ng-repeat="rec in recipes | filter:query">
     {{rec.name}}</a>
