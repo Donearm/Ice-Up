@@ -13,6 +13,9 @@ iceupApp.config(['$routeProvider',
 				templateUrl: 'partials/recipe-id.html',
 				controller: 'RecipeIdController'
 			})
+			.when('/about', {
+				templateUrl: 'partials/about.html'
+			})
 			.otherwise({ redirectTo: '/recipes'
 			});
 }]);
@@ -20,11 +23,13 @@ iceupApp.config(['$routeProvider',
 iceupApp.controller('RecipeListController', ['$scope', 'GetRecipe',
 		function($scope, GetRecipe) {
 			$scope.recipes = GetRecipe.query();
+			console.log($scope.recipes);
 		}]);
 iceupApp.controller('RecipeIdController', ['$scope', '$routeParams', 'GetRecipe',
 		function($scope, $routeParams, GetRecipe) {
 			$scope.recipe = GetRecipe.get({recipeId: $routeParams.recipeId}, function(recipe) {
 			});
+			console.log($scope.recipe);
 		}]);
 
 iceupApp.factory('GetRecipe', ['$resource',
