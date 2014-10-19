@@ -5,9 +5,9 @@
   <p>{{recipe.glass}}</p>
   <ul>
     <li data-ng-repeat="ing in recipe.ingredients">
-      {{ingredient.parts}} / 
-      {{ingredient.amount}}{{ingredient.amountUnits}} 
-      {{ingredient.ingredientName}}</li>
+      {{ing.parts}} / 
+      {{ing.amount}}{{ing.amountUnits}} 
+      {{ing.ingredientName}}</li>
   </ul>
   <p>{{recipe.garnish}}</p>
   <a href="#">Back to recipes' list</a>
