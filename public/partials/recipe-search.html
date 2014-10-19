@@ -3,8 +3,4 @@
 
   <a href="#/data/{{rec.id}}" data-ng-repeat="rec in recipes | filter:query">
     {{rec.name}}</a>
-  <ul>
-    <li data-ng-repeat="ing in rec.ingredients">
-      {{ing.ingredientName}}</li>
-  </ul>
 </div>
