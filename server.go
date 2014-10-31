@@ -71,13 +71,13 @@ func homeHandler(w http.ResponseWriter, r *http.Request) {
 	var p Page
 	name := r.FormValue("query")
 	if name != "" {
-		rec, rec_err := GetRecipe(name + ".json")
+		replacer := strings.NewReplacer(" ", "-") // json files use - instead of spaces
+		rec, rec_err := GetRecipe(replacer.Replace(strings.ToLower(name)) + ".json")
 		if rec_err != nil {
 			rec = &Recipe{Name: "Not found"}
 		}
 		p.Title = "Ice Up! - " + rec.Name + " recipe"
-		p.Body = "You searched for " + name
-		err := templates.ExecuteTemplate(w, "index.html", p)
+		err := templates.ExecuteTemplate(w, "recipe.html", rec)
 		if err != nil {
 			http.Error(w, err.Error(), http.StatusInternalServerError)
 			return
