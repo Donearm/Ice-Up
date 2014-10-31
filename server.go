@@ -10,7 +10,7 @@ import (
 )
 
 // Path of cocktail's recipes
-const path string = "./data/"
+const path string = "public/data/"
 
 // Initialize all templates at start
 var templates = template.Must(template.ParseFiles("tmpl/index.html", "tmpl/recipe.html"))
