@@ -1,8 +1,6 @@
 'use strict';
 
-var iceupApp = angular.module('iceupApp', ['ngRoute', 'ngResource']);
-
-iceupApp.config(['$routeProvider',
+angular.module('iceupApp', ['ngRoute', 'ngResource']).config(['$routeProvider',
 	function ($routeProvider) {
 		$routeProvider
 			.when('/recipes', {
@@ -19,18 +17,3 @@ iceupApp.config(['$routeProvider',
 			});
 }]);
 
-iceupApp.controller('RecipeIdController', ['$scope', '$routeParams', 'GetRecipe',
-		function($scope, $routeParams, GetRecipe) {
-			console.log($routeParams.recipeId);
-			console.log($routeParams);
-			$scope.recipe = GetRecipe.query({recipeId: $routeParams.recipeId}, function(recipe) {
-			});
-			console.log($scope.recipe);
-		}]);
-
-iceupApp.factory('GetRecipe', ['$resource',
-		function($resource) {
-			return $resource('data/:recipeId.json', {}, {
-				query: {method: 'GET', params: { recipeId: '@id'}, isArray: false}
-			});
-		}]);
