@@ -5,6 +5,7 @@ angular.module('iceupApp', ['ngRoute', 'ngResource']).config(['$routeProvider',
 		$routeProvider
 			.when('/recipes', {
 				templateUrl: 'partials/recipe-search.html',
+				controller: 'RecipeListController'
 			})
 			.when('/recipes/:recipeId', {
 				templateUrl: 'partials/recipe-id.html',
