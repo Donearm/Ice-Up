@@ -1,6 +1,9 @@
 <div>
 <input type="text" placeholder="search" data-ng-model="query"></input>
 
-  <a href="#/recipes/{{recipe.id}}" data-ng-repeat="recipe in recipes | filter:query">
-    {{recipe.name}}</a>
+  <ul>
+    <li data-ng-repeat="recipe in recipes | filter:query">
+      <a href="#/recipes/{{recipe.id}}">{{recipe.name}}</a>
+    </li>
+  </ul>
 </div>
