@@ -2,7 +2,12 @@
 	"id": "sex-on-the-beach",
 	"name": "Sex On The Beach",
 	"method": "Shake and strain",
-	"variations": "Sex on the beach - US version (1 part each for Midori and Chambord instead of Peach liqueur and Pineapple Juice instead of Orange)",
+	"variations": [
+		{
+			"name": "Sex On The Beach - US version",
+			"variant": "1 part each for Midori and Chambord instead of Peach liqueur and Pineapple Juice instead of Orange Juice"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "2",

@@ -2,7 +2,36 @@
 	"id": "tequila-sunrise",
 	"name": "Tequila Sunrise",
 	"method": "Build in glass. Sink the Grenadine",
-	"variations": "Aperol Sunrise (Aperol instead of Grenadine), Tequila Sunset (berry Brandy instead of Grenadine), Caribbean Sunrise (Rum instead of Tequila), Vodka Sunrise (Vodka instead of Tequila), Amaretto Sunrise (Amaretto liqueur instead of Tequila), Florida Sunrise (half Pineapple and half Orange Juice), Enamorada Sunrise (Campari instead of Grenadine)",
+	"variations": [
+		{
+			"name": "Aperol Sunrise",
+			"variant": "Aperol instead of Grenadine"
+		},
+		{
+			"name": "Tequila Sunset",
+			"variant": "berry Brandy instead of Grenadine"
+		},
+		{
+			"name": "Caribbean Sunrise",
+			"variant": "Rum instead of Tequila"
+		},
+		{
+			"name": "Vodka Sunrise",
+			"variant": "Vodka instead of  Tequila"
+		},
+		{
+			"name": "Amaretto Sunrise",
+			"variant": "Amaretto liqueur instead of Tequila"
+		},
+		{
+			"name": "Florida Sunrise",
+			"variant": "half Pineapple and half Orange Juice"
+		},
+		{
+			"name": "Enamorada Sunrise",
+			"variant": "Campari instead of Grenadine"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "3",

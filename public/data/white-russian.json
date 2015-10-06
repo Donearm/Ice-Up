@@ -2,7 +2,12 @@
 	"id": "white-russian",
 	"name": "White Russian",
 	"method": "Build in glass",
-	"variations": "Dirty White Mother (Tequila instead of Vodka)",
+	"variations": [
+		{
+			"name": "Dirty White Mother",
+			"variant": "Tequila instead of Vodka"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "4",

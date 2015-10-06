@@ -3,7 +3,16 @@
 	"name": "Mojito",
 	"description": "Many bars use 2 bar spoons of white or brown sugar rather than sugar syrup",
 	"method": "Slap mint, add other ingredients, churn with crushed ice",
-	"variations": "Mexican Mojito (Tequila instead of Rum), Campari Mojito (Campari instead of Rum)",
+	"variations": [
+		{
+			"name": "Mexican Mojito",
+			"variant": "Tequila instead of Rum"
+		},
+		{
+			"name": "Campari Mojito",
+			"variant": "Campari instead of Rum"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "4",

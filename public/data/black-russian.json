@@ -2,7 +2,28 @@
 	"id": "black-russian",
 	"name": "Black Russian",
 	"method": "Build in glass. Stir gently",
-	"variations": "Dirty Black Russian (top with Cola), Black Magic (add a dash of Lemon Juice and garnish with a Lemon twist), Irish Russian (top with Guinness), Brown Russian (top with Ginger Ale), Brave Bull/Dirty Mother (Tequila instead of Vodka)",
+	"variations": [
+		{
+			"name": "Dirty Black Russian",
+			"variant": "top with Cola"
+		},
+		{
+			"name": "Black Magic",
+			"variant": "add a dash of Lemon Juice and garnish with a Lemon Twist"
+		},
+		{
+			"name": "Irish Russian",
+			"variant": "top with Guinness"
+		},
+		{
+			"name": "Brown Russian",
+			"variant": "top with Ginger Ale"
+		},
+		{
+			"name": "Brave Bull/Dirty Mother",
+			"variant": "Tequila instead of Vodka"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "4",

@@ -2,7 +2,12 @@
 	"id": "mimosa",
 	"name": "Mimosa",
 	"method": "Build in glass. Stir gently",
-	"variations": "Grand Mimosa (add 2 parts of Grand Marnier and 50/50 of Champagne and Orange Juice)",
+	"variations": [
+		{
+			"name": "Grand Mimosa",
+			"variant": "add 2 parts of Grand Marnier and make 50/50 of Champagne and Orange Juice"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "1",

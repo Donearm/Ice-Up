@@ -2,7 +2,12 @@
 	"id": "french-75",
 	"name": "French 75",
 	"method": "Shake hard, fine strain, top and stir gently",
-	"variations": "French 76 (Vodka instead of Gin)",
+	"variations": [
+		{
+			"name": "French 76",
+			"variant": "Vodka instead of Gin"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "6",

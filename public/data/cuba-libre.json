@@ -2,7 +2,12 @@
 	"id": "cuba-libre",
 	"name": "Cuba Libre",
 	"method": "Build in glass",
-	"variations": "Fidel Castro (replace Cola with Ginger Ale)",
+	"variations": [
+		{
+			"name": "Fidel Castro",
+			"variant": "Ginger Ale instead of Cola"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "4",

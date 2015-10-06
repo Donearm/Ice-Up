@@ -53,7 +53,16 @@
 		"id": "alexander",
 		"name": "Alexander",
 		"method": "Shake with half ice. Strain",
-		"variations": "Coffee Alexander (Coffee Liqueu instead of Gin), Blue Alexander (Blue Curaçao instead of Creme de Cacao)",
+		"variations": [
+			{
+				"name": "Coffee Alexander",
+				"variant": "Coffee liqueur instead of Gin"
+			},
+			{
+				"name": "Blue Alexander",
+				"variant": "Blue Curaçao instead of Creme de Cacao"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "1",
@@ -122,7 +131,12 @@
 		"name": "Amber Dream",
 		"description": "From Barkeeper's Golden Book (1935)",
 		"method": "Stir and strain",
-		"variations": "Club Cocktail (Sweet instead of Dry Vermouth)",
+		"variations": [
+			{
+				"name": "Club Cocktail",
+				"variant": "Sweet instead of Dry Vermouth"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "2",
@@ -323,7 +337,16 @@
 		"id": "aviation",
 		"name": "Aviation",
 		"method": "Shake hard, fine strain",
-		"variations": "Blue Moon (remove Maraschino), Moonlight (Lime instead of Lemon and Cointreau instead of Maraschino)",
+		"variations": [
+			{
+				"name": "Blue Moon",
+				"variant": "remove Maraschino"
+			},
+			{
+				"name": "Moonlight",
+				"variant": "Lime Juice instead of Lemon and Cointreau instead of Maraschino"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "6",
@@ -580,35 +603,6 @@
 		"glass": "Cocktail Glass"
 	},
 	{
-		"id": "",
-		"name": "",
-		"description": "",
-		"method": "",
-		"variations": "",
-		"ingredients": [
-		{
-			"parts": "",
-			"amount": "",
-			"amountUnits": "cl",
-			"ingredientName": ""
-		},
-		{
-			"parts": "",
-			"amount": "",
-			"amountUnits": "cl",
-			"ingredientName": ""
-		},
-		{
-			"parts": "",
-			"amount": "",
-			"amountUnits": "cl",
-			"ingredientName": ""
-		}
-		],
-		"glass": "",
-		"garnish": ""
-	},
-	{
 		"id": "batida",
 		"name": "Batida",
 		"method": "Mix in a glass full of ice",
@@ -771,7 +765,12 @@
 		"id": "black-martini",
 		"name": "Black Martini",
 		"method": "Shake, gently, and strain",
-		"variations": "4 parts Vodka, 2 Strawberry Liqueur and 1 Blue Curaçao",
+		"variations": [
+			{
+				"name": "Variation  n°1",
+				"variant": "4 parts Vodka, 2 Strawberry Liqueur and 1 Blue Curaçao"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "2",
@@ -819,7 +818,28 @@
 		"id": "black-russian",
 		"name": "Black Russian",
 		"method": "Build in glass. Stir gently",
-		"variations": "Dirty Black Russian (top with Cola), Black Magic (add a dash of Lemon Juice and garnish with a Lemon twist), Irish Russian (top with Guinness), Brown Russian (top with Ginger Ale), Brave Bull/Dirty Mother (Tequila instead of Vodka)",
+		"variations": [
+			{
+				"name": "Dirty Black Russian",
+				"variant": "top with Cola"
+			},
+			{
+				"name": "Black Magic",
+				"variant": "add a dash of Lemon Juice and garnish with a Lemon Twist"
+			},
+			{
+				"name": "Irish Russian",
+				"variant": "top with Guinness"
+			},
+			{
+				"name": "Brown Russian",
+				"variant": "top with Ginger Ale"
+			},
+			{
+				"name": "Brave Bull/Dirty Mother",
+				"variant": "Tequila instead of Vodka"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "4",
@@ -946,7 +966,20 @@
 		"id": "bloody-mary",
 		"name": "Bloody Mary",
 		"method": "",
-		"variations": "Red Snapper (replace Vodka with Gin), Bloody Caesar (replace Tomato Juice with Clamato Juice), Bull Shot (replace Tomato Juice with Beef Bouillon or Beef Consomme)",
+		"variations": [
+			{
+				"name": "Red Snapper",
+				"variant": "Gin instead of Vodka"
+			},
+			{
+				"name": "Bloody Caesar",
+				"variant": "Clamato Juice instead of Tomato"
+			},
+			{
+				"name": "Bull Shot",
+				"variant": "Beef Bouillon or Beef Consomme instead of Tomato Juice"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "5",
@@ -1443,7 +1476,16 @@
 		"name": "Bronx",
 		"description": "Created in 1906 by Johnny Solon, Waldorf-Astoria, NY",
 		"method": "Shake hard and fine strain",
-		"variations": "Income Tax (add 2 dashes of Angostura Bitters), Satan's Whiskers (add 1.5cl of Grand Marnier)",
+		"variations": [
+			{
+				"name": "Income Tax",
+				"variant": "add 2 dashes of Angostura Bitters"
+			},
+			{
+				"name": "Satan's Whiskers",
+				"variant": "add 1.5cl of Grand Marnier"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "4",
@@ -1579,7 +1621,16 @@
 		"name": "Caipirinha",
 		"description": "",
 		"method": "Muddle in glass. Pour Cachaça. Fill with crushed ice",
-		"variations": "Caipiroska (Vodka instead of Cachaça), Rabo de Galo (2/3 Cachaça and 1/3 Red Vermouth)",
+		"variations": [
+			{
+				"name": "Caipiroska",
+				"variant": "Vodka instead of Cachaça"
+			},
+			{
+				"name": "Rabo de Galo",
+				"variant": "2/3 Cachaça and 1/3 Red Vermouth"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "6",
@@ -2105,7 +2156,28 @@
 		"id": "cosmopolitan",
 		"name": "Cosmopolitan",
 		"method": "Shake hard and fine strain",
-		"variations": "Rude Cosmo (Tequila instead of Vodka), Blue Cosmopolitan (white Cranberry Juice instead of red and Blue Curaçao instead of Triple Sec), Cosmocello (Limoncello instead of Lime Juice), Peach Cosmopolitan (Peach Schnapps instead of Triple Sec and Peach Juice instead of Cranberry), Caribe Cosmopolitan (Lemon Rum instead of Vodka)",
+		"variations": [
+			{
+				"name": "Rude Cosmo",
+				"variant": "Tequila instead of Vodka"
+			},
+			{
+				"name": "Blue Cosmopolitan",
+				"variant": "white Cranberry Juice instead of red and Blue Curaçao instead of Triple Sec"
+			},
+			{
+				"name": "Cosmocello",
+				"variant": "Limoncello instead of Lime Juice"
+			},
+			{
+				"name": "Peach Cosmopolitan",
+				"variant": "Peach Schnapps instead of Triple Sec and Peach Juice instead of Cranberry"
+			},
+			{
+				"name": "Caribe Cosmopolitan",
+				"variant": "Lemon Rum instead of Vodka"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "4",
@@ -2145,7 +2217,12 @@
 		"id": "cuba-libre",
 		"name": "Cuba Libre",
 		"method": "Build in glass",
-		"variations": "Fidel Castro (replace Cola with Ginger Ale)",
+		"variations": [
+			{
+				"name": "Fidel Castro",
+				"variant": "Ginger Ale instead of Cola"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "4",
@@ -2263,7 +2340,16 @@
 		"id": "dark-n-stormy",
 		"name": "Dark'n'Stormy",
 		"method": "Build in glass",
-		"variations": "Clear and Sunny (Vodka instead of Rum), Partly Cloudy (Vodka instead of Rum and Gatorade instead of Beer)",
+		"variations": [
+			{
+				"name": "Clear and Sunny",
+				"variant": "Vodka instead of Rum"
+			},
+			{
+				"name": "Partly Cloudy",
+				"variant": "Vodka instead of Rum and Gatorade instead of Beer"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "6",
@@ -2657,7 +2743,12 @@
 		"id": "french-75",
 		"name": "French 75",
 		"method": "Shake hard, fine strain, top and stir gently",
-		"variations": "French 76 (Vodka instead of Gin)",
+		"variations": [
+			{
+				"name": "French 76",
+				"variant": "Vodka instead of Gin"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "6",
@@ -2801,7 +2892,20 @@
 		"id": "gin-fizz",
 		"name": "Gin Fizz",
 		"method": "Shake and strain",
-		"variations": "Sloe Gin Fizz (Sloe Gin, simple Sugar and 1 Egg White instead of normal Gin and the Syrup), Golden Fizz (add 1 Egg Yolk and make it 4.5 parts of Sugar Syrup), Royal Fizz (add 1 whole Egg and make it 4.5 parts of Sugar Syrup)",
+		"variations": [
+			{
+				"name": "Sloe Gin Fizz",
+				"variant": "Sloe Gin, simple Sugar and 1 Egg White instead of normal Gin and the Syrup"
+			},
+			{
+				"name": "Golden Fizz",
+				"variant": "add 1 Egg Yolk and make it 4.5 parts of Sugar Syrup"
+			},
+			{
+				"name": "Royal Fizz",
+				"variant": "add 1 whole Egg and make it 4.5 parts of Sugar Syrup"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "4.5",
@@ -3038,7 +3142,24 @@
 		"id": "grasshopper",
 		"name": "Grasshopper",
 		"method": "Shake hard and fine strain",
-		"variations": "Flying Grasshopper (Vodka instead of Cream), Brown Grasshopper (add Coffee), Coffee Grasshopper (Coffee Liqueur instead of Creme de Cacao), Banshee (Creme de Banane instead of Creme de Menthe and 2 parts of Cream)",
+		"variations": [
+			{
+				"name": "Flying Grasshopper",
+				"variant": "Vodka instead of Cream"
+			},
+			{
+				"name": "Brown Grasshopper",
+				"variant": "add Coffee"
+			},
+			{
+				"name": "Coffee Grasshopper",
+				"variant": "Coffee liqueur instead of Creme de Cacao"
+			},
+			{
+				"name": "Banshee",
+				"variant": "Creme de Banane instead of Creme de Menthe and 2 parts of Cream"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "1",
@@ -3264,7 +3385,24 @@
 		"id": "irish-coffee",
 		"name": "Irish Coffee",
 		"method": "Heat Coffee, Whiskey and Sugar. Do not boil. Build in glass and top with Cream",
-		"variations": "Café Amore (2cl Brandy and 2cl Amaretto instead of Whiskey), Calypso Coffee (Rum and Kahlua, 2cl/2cl, instead of Whiskey), Mexican Coffee (2cl Tequila and 2cl Kahlua instead of Whiskey), Kioke Coffee (2cl Brandy and 2cl Kahlua instead of Whiskey)",
+		"variations": [
+			{
+				"name": "Café Amore",
+				"variant": "2cl Brandy and 2cl Amaretto liqueur instead of Whiskey"
+			},
+			{
+				"name": "Calypso Coffee",
+				"variant": "Rum and Kahlua, 2cl/2cl, instead of Whiskey"
+			},
+			{
+				"name": "Mexican Coffee",
+				"variant": "2cl Tequila and 2cl Kahlua instead of Whiskey"
+			},
+			{
+				"name": "Kioke Coffee",
+				"variant": "2cl Brandy and 2cl Kahlua instead of Whiskey"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "2",
@@ -3509,7 +3647,40 @@
 		"id": "kir",
 		"name": "Kir",
 		"method": "Build and stir gently in glass",
-		"variations": "Kir Royal (Champagne instead of White Wine), Cardinal (Red instead of White Wine), Normand (Cider instead of Wine), Cidre Royal (Cider and Calvados instead of Wine), Peche (with Peach Liqueur instead of Creme de Cassis), Pamplemousse (Grapefruit Liqueur added), Tarantino (with Lager Beer instead of Wine), Pink Russian (with Milk instead of Wine)",
+		"variations": [
+			{
+				"name": "Kir Royal",
+				"variant": "Champagne instead of White Wine"
+			},
+			{
+				"name": "Cardinal",
+				"variant": "Red instead of White Wine"
+			},
+			{
+				"name": "Normand",
+				"variant": "Cider instead of Wine"
+			},
+			{
+				"name": "Cidre Royal",
+				"variant": "Cider and Calvados instead of Wine"
+			},
+			{
+				"name": "Peche",
+				"variant": "Peach liqueur instead of Creme de Cassis"
+			},
+			{
+				"name": "Pamplemousse",
+				"variant": "add Grapefruit liqueur"
+			},
+			{
+				"name": "Tarantino",
+				"variant": "Lager Beer instead of Wine"
+			},
+			{
+				"name": "Pink Russian",
+				"variant": "Milk instead of Wine"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "9",
@@ -3897,7 +4068,32 @@
 		"id": "manhattan",
 		"name": "Manhattan",
 		"method": "Stir in mixing glass and strain",
-		"variations": "Rob Roy (use Scotch Whisky), Brandy Manhattan (Brandy instead of Whiskey), Metropolitan (3:1 ratio Whiskey and Vermouth), Cuban Manhattan (Dark Rum instead of Whiskey), Tijuana Manhattan (Anejo Tequila instead of Whiskey), Fourth Regiment (1:1 ratio of Whiskey and Vermouth and 3 dashes, 1 each, of Orange, Celery and Peychaud's Bitters)",
+		"variations": [
+			{
+				"name": "Rob Roy",
+				"variant": "use Scotch Whisky"
+			},
+			{
+				"name": "Brandy Manhattan",
+				"variant": "Brandy instead of Whiskey"
+			},
+			{
+				"name": "Metropolitan",
+				"variant": "3:1 ratio of Whiskey and Vermouth"
+			},
+			{
+				"name": "Cuban Manhattan",
+				"variant": "Dark Rum instead of Whiskey"
+			},
+			{
+				"name": "Tijuana Manhattan",
+				"variant": "Anejo Tequila instead of Whiskey"
+			},
+			{
+				"name": "Fourth Regiment",
+				"variant": "1:1 ratio of Whiskey and Vermouth and 3 dashes, 1 each, of Orange, Celery and Peychaud's Bitters"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "5",
@@ -3990,7 +4186,24 @@
 		"id": "martini",
 		"name": "Martini",
 		"method": "Stir in mixing glass and strain",
-		"variations": "Wet Martini (slightly more Vermouth), Gibson (Pickled Onion as garnish), Kangeroo/Vodka Martini (Vodka instead of Gin), Dirty Martini (Vodka instead of Gin and 2 parts of Olive Juice)",
+		"variations": [
+			{
+				"name": "Wet Martini",
+				"variant": "slightly more Vermouth"
+			},
+			{
+				"name": "Gibson",
+				"variant": "Pickled Onion as garnish"
+			},
+			{
+				"name": "Kangeroo/Vodka Martini",
+				"variant": "Vodka instead of Gin"
+			},
+			{
+				"name": "Dirty Martini",
+				"variant": "Vodka instead of Gin and 2 parts of Olive Juice"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "12",
@@ -4071,7 +4284,12 @@
 		"id": "mimosa",
 		"name": "Mimosa",
 		"method": "Build in glass. Stir gently",
-		"variations": "Grand Mimosa (add 2 parts of Grand Marnier and 50/50 of Champagne and Orange Juice)",
+		"variations": [
+			{
+				"name": "Grand Mimosa",
+				"variant": "add 2 parts of Grand Marnier and make 50/50 of Champagne and Orange Juice"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "1",
@@ -4092,7 +4310,12 @@
 		"id": "mint-julep",
 		"name": "Mint Julep",
 		"method": "Muddle ingredients except Bourbon in glass. Add crushed ice and Bourbon. Churn",
-		"variations": "Kremlin Colonel (Vodka instead of Bourbon)",
+		"variations": [
+			{
+				"name": "Kremlin Colonel",
+				"variant": "Vodka instead of Bourbon"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "6",
@@ -4133,7 +4356,16 @@
 		"name": "Mojito",
 		"description": "Many bars use 2 bar spoons of white or brown sugar rather than sugar syrup",
 		"method": "Slap mint, add other ingredients, churn with crushed ice",
-		"variations": "Mexican Mojito (Tequila instead of Rum), Campari Mojito (Campari instead of Rum)",
+		"variations": [
+			{
+				"name": "Mexican Mojito",
+				"variant": "Tequila instead of Rum"
+			},
+			{
+				"name": "Campari Mojito",
+				"variant": "Campari instead of Rum"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "4",
@@ -4353,7 +4585,36 @@
 		"id": "negroni",
 		"name": "Negroni",
 		"method": "Stir in mixing glass, strain",
-		"variations": "Negroni Sbagliato (Spumante instead of Gin), Negroni Malato (add Orange Juice), Negroski (Vodka instead of Gin), Cardinaloski (Vodka instead of Gin and a few Angostura Bitters drops), Cin Cyn (Cynar instead of Campari), Boulevardier (Bourbon instead of Gin), Raultini (Aperol instead of Campari)",
+		"variations": [
+			{
+				"name": "Negroni Sbagliato",
+				"variant": "Spumante instead of Gin"
+			},
+			{
+				"name": "Negroni Malato",
+				"variant": "add Orange Juice"
+			},
+			{
+				"name": "Negroski",
+				"variant": "Vodka instead of Gin"
+			},
+			{
+				"name": "Cardinaloski",
+				"variant": "Vodka instead of Gin and a few Angostura bitters drops"
+			},
+			{
+				"name": "Cin Cyn",
+				"variant": "Cynar instead of Campari"
+			},
+			{
+				"name": "Boulevardier",
+				"variant": "Bourbon instead of Gin"
+			},
+			{
+				"name": "Raultini",
+				"variant": "Aperol instead of Campari"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "1",
@@ -4381,7 +4642,12 @@
 		"id": "old-fashioned",
 		"name": "Old Fashioned",
 		"method": "Muddle the Angostura soaked sugar cube with Soda Water. Gradually add ice and Whisky while gently stirring",
-		"variations": "for a quicker preparation, it's possible to use Sugar Syrup instead of the sugar cube",
+		"variations": [
+			{
+				"name": "Variation n°1",
+				"variant": "for a quicker preparation, it's possible to use Sugar Syrup instead of the sugar cube"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "1",
@@ -4715,7 +4981,12 @@
 		"id": "ramos-fizz",
 		"name": "Ramos Fizz",
 		"method": "Dry shake, shake hard and strain in a Collins glass without ice",
-		"variations": "Silver Fizz (remove the Lime, the Milk, the Vanilla extract and the Orange Flower water)",
+		"variations": [
+			{
+				"name": "Silver Fizz",
+				"variant": "remove the Lime, the Milk, the Vanilla extract and the Orange Flower water"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "4.5",
@@ -4778,7 +5049,6 @@
 		"id": "rob-roy",
 		"name": "Rob Roy",
 		"method": "Shake and fine strain. No ice",
-		"variations": "on the rocks (lowball and ice)",
 		"ingredients": [
 		{
 			"parts": "5",
@@ -4826,7 +5096,20 @@
 		"id": "rusty-nail",
 		"name": "Rusty Nail",
 		"method": "Stir in glass",
-		"variations": "Smoky Nail (Islay Whisky instead of Blended Scotch), Clavo Ahumado (Tequila instead of Whisky), Donald Sutherland (Canadian Whiskey instead of Scotch)",
+		"variations": [
+			{
+				"name": "Smoky Nail",
+				"variant": "Islay Whisky instead of Blended Scotch"
+			},
+			{
+				"name": "Clavo Ahumado",
+				"variant": "Tequila instead of Whisky"
+			},
+			{
+				"name": "Donald Sutherland",
+				"variant": "Canadian Whiskey instead of Blended Scotch"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "5",
@@ -4869,7 +5152,20 @@
 		"id": "sangria",
 		"name": "Sangria",
 		"method": "Stir fruits with the wine. Add sugar and cinnamon. Let rest for 4-6 hours. Serve over plenty of ice",
-		"variations": "White instead of Red Wine, added spirits (Vodka or Brandy usually), Champagne instead of Wine",
+		"variations": [
+			{
+				"name": "Variation n°1",
+				"variant": "White instead of Red Wine"
+			},
+			{
+				"name": "Variation n°2",
+				"variant": "added spirits (Vodka or Brandy usually)"
+			},
+			{
+				"name": "Variation n°3",
+				"variant": "Champagne instead of Wine"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "2",
@@ -5004,7 +5300,32 @@
 		"id": "screwdriver",
 		"name": "Screwdriver",
 		"method": "Build in glass",
-		"variations": "Mexican Screw (Tequila instead of Vodka), Sloe Screw (Sloe Gin instead of Vodka), American Screw (Bourbon instead of Vodka), French Screw (Cognac instead of Vodka), Italian Screw (Galliano instead of Vodka), Cuban Screw (Rum instead of Vodka)",
+		"variations": [
+			{
+				"name": "Mexican Screw",
+				"variant": "Tequila instead of Vodka"
+			},
+			{
+				"name": "Sloe Screw",
+				"variant": "Sloe Gin instead of Vodka"
+			},
+			{
+				"name": "American Screw",
+				"variant": "Bourbon instead of Vodka"
+			},
+			{
+				"name": "French Screw",
+				"variant": "Cognac instead of Vodka"
+			},
+			{
+				"name": "Italian Screw",
+				"variant": "Galliano instead of Vodka"
+			},
+			{
+				"name": "Cuban Screw",
+				"variant": "Rum instead of Vodka"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "1",
@@ -5026,7 +5347,16 @@
 		"id": "sea-breeze",
 		"name": "Sea Breeze",
 		"method": "Build in glass",
-		"variations": "Variations: Madras (Orange juice instead of Grapefruit), Shore Breeze (Rum instead of Vodka and Pineapple juice instead of Grapefruit)",
+		"variations": [
+			{
+				"name": "Madras",
+				"variant": "Orange Juice instead of Grapefruit"
+			},
+			{
+				"name": "Shore Breeze",
+				"variant": "Rum instead of Vodka and Pineapple Juice instead of Grapefruit"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "4",
@@ -5053,7 +5383,12 @@
 		"id": "sex-on-the-beach",
 		"name": "Sex On The Beach",
 		"method": "Shake and strain",
-		"variations": "Sex on the beach - US version (1 part each for Midori and Chambord instead of Peach liqueur and Pineapple Juice instead of Orange)",
+		"variations": [
+			{
+				"name": "Sex On The Beach - US version",
+				"variant": "1 part each for Midori and Chambord instead of Peach liqueur and Pineapple Juice instead of Orange Juice"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "2",
@@ -5317,7 +5652,16 @@
 		"id": "stinger",
 		"name": "Stinger",
 		"method": "Stir in a mixing glass and fine strain",
-		"variations": "Vodka Stinger (Vodka instead of Cognac), White Spider (Vodka instead of Cognac and equal parts with Creme de Menthe)",
+		"variations": [
+			{
+				"name": "Vodka Stinger",
+				"variant": "Vodka instead of Cognac"
+			},
+			{
+				"name": "White Spider",
+				"variant": "Vodka instead of Cognac and equal parts with Creme de Menthe"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "5",
@@ -5385,7 +5729,36 @@
 		"id": "tequila-sunrise",
 		"name": "Tequila Sunrise",
 		"method": "Build in glass. Sink the Grenadine",
-		"variations": "Aperol Sunrise (Aperol instead of Grenadine), Tequila Sunset (berry Brandy instead of Grenadine), Caribbean Sunrise (Rum instead of Tequila), Vodka Sunrise (Vodka instead of Tequila), Amaretto Sunrise (Amaretto liqueur instead of Tequila), Florida Sunrise (half Pineapple and half Orange Juice), Enamorada Sunrise (Campari instead of Grenadine)",
+		"variations": [
+			{
+				"name": "Aperol Sunrise",
+				"variant": "Aperol instead of Grenadine"
+			},
+			{
+				"name": "Tequila Sunset",
+				"variant": "berry Brandy instead of Grenadine"
+			},
+			{
+				"name": "Caribbean Sunrise",
+				"variant": "Rum instead of Tequila"
+			},
+			{
+				"name": "Vodka Sunrise",
+				"variant": "Vodka instead of  Tequila"
+			},
+			{
+				"name": "Amaretto Sunrise",
+				"variant": "Amaretto liqueur instead of Tequila"
+			},
+			{
+				"name": "Florida Sunrise",
+				"variant": "half Pineapple and half Orange Juice"
+			},
+			{
+				"name": "Enamorada Sunrise",
+				"variant": "Campari instead of Grenadine"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "3",
@@ -5795,7 +6168,12 @@
 		"id": "white-russian",
 		"name": "White Russian",
 		"method": "Build in glass",
-		"variations": "Dirty White Mother (Tequila instead of Vodka)",
+		"variations": [
+			{
+				"name": "Dirty White Mother",
+				"variant": "Tequila instead of Vodka"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "4",
@@ -5850,7 +6228,6 @@
 		"id": "zombie",
 		"name": "Zombie",
 		"method": "Shake hard and strain",
-		"variations": "some recipes add Overproof Rum and Absinthe",
 		"ingredients": [
 		{
 			"parts": "2",

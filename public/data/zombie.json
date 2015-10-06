@@ -2,7 +2,6 @@
 	"id": "zombie",
 	"name": "Zombie",
 	"method": "Shake hard and strain",
-	"variations": "some recipes add Overproof Rum and Absinthe",
 	"ingredients": [
 	{
 		"parts": "2",

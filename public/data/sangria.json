@@ -2,7 +2,20 @@
 	"id": "sangria",
 	"name": "Sangria",
 	"method": "Stir fruits with the wine. Add sugar and cinnamon. Let rest for 4-6 hours. Serve over plenty of ice",
-	"variations": "White instead of Red Wine, added spirits (Vodka or Brandy usually), Champagne instead of Wine",
+	"variations": [
+		{
+			"name": "Variation n°1",
+			"variant": "White instead of Red Wine"
+		},
+		{
+			"name": "Variation n°2",
+			"variant": "added spirits (Vodka or Brandy usually)"
+		},
+		{
+			"name": "Variation n°3",
+			"variant": "Champagne instead of Wine"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "2",

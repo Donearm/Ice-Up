@@ -2,7 +2,32 @@
 	"id": "manhattan",
 	"name": "Manhattan",
 	"method": "Stir in mixing glass and strain",
-	"variations": "Rob Roy (use Scotch Whisky), Brandy Manhattan (Brandy instead of Whiskey), Metropolitan (3:1 ratio Whiskey and Vermouth), Cuban Manhattan (Dark Rum instead of Whiskey), Tijuana Manhattan (Anejo Tequila instead of Whiskey), Fourth Regiment (1:1 ratio of Whiskey and Vermouth and 3 dashes, 1 each, of Orange, Celery and Peychaud's Bitters)",
+	"variations": [
+		{
+			"name": "Rob Roy",
+			"variant": "use Scotch Whisky"
+		},
+		{
+			"name": "Brandy Manhattan",
+			"variant": "Brandy instead of Whiskey"
+		},
+		{
+			"name": "Metropolitan",
+			"variant": "3:1 ratio of Whiskey and Vermouth"
+		},
+		{
+			"name": "Cuban Manhattan",
+			"variant": "Dark Rum instead of Whiskey"
+		},
+		{
+			"name": "Tijuana Manhattan",
+			"variant": "Anejo Tequila instead of Whiskey"
+		},
+		{
+			"name": "Fourth Regiment",
+			"variant": "1:1 ratio of Whiskey and Vermouth and 3 dashes, 1 each, of Orange, Celery and Peychaud's Bitters"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "5",

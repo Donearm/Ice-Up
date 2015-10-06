@@ -2,7 +2,12 @@
 	"id": "old-fashioned",
 	"name": "Old Fashioned",
 	"method": "Muddle the Angostura soaked sugar cube with Soda Water. Gradually add ice and Whisky while gently stirring",
-	"variations": "for a quicker preparation, it's possible to use Sugar Syrup instead of the sugar cube",
+	"variations": [
+		{
+			"name": "Variation n°1",
+			"variant": "for a quicker preparation, it's possible to use Sugar Syrup instead of the sugar cube"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "1",

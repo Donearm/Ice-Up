@@ -3,7 +3,16 @@
 	"name": "Caipirinha",
 	"description": "",
 	"method": "Muddle in glass. Pour Cachaça. Fill with crushed ice",
-	"variations": "Caipiroska (Vodka instead of Cachaça), Rabo de Galo (2/3 Cachaça and 1/3 Red Vermouth)",
+	"variations": [
+		{
+			"name": "Caipiroska",
+			"variant": "Vodka instead of Cachaça"
+		},
+		{
+			"name": "Rabo de Galo",
+			"variant": "2/3 Cachaça and 1/3 Red Vermouth"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "6",

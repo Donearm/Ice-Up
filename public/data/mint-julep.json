@@ -2,7 +2,12 @@
 	"id": "mint-julep",
 	"name": "Mint Julep",
 	"method": "Muddle ingredients except Bourbon in glass. Add crushed ice and Bourbon. Churn",
-	"variations": "Kremlin Colonel (Vodka instead of Bourbon)",
+	"variations": [
+		{
+			"name": "Kremlin Colonel",
+			"variant": "Vodka instead of Bourbon"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "6",
