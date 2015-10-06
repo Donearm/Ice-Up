@@ -1,5 +1,7 @@
-<div>
-<input type="text" placeholder="search" data-ng-model="query"></input>
+<div class="row">
+  <div class="form-group">
+    <input type="text" class="form-control" placeholder="search" data-ng-model="query"></input>
+  </div>
 
   <ul>
     <li data-ng-repeat="recipe in recipes | filter:query">
