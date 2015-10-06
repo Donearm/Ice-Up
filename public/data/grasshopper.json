@@ -1,0 +1,28 @@
+{
+	"id": "grasshopper",
+	"name": "Grasshopper",
+	"method": "Shake hard and fine strain",
+	"variations": "Flying Grasshopper (Vodka instead of Cream), Brown Grasshopper (add Coffee), Coffee Grasshopper (Coffee Liqueur instead of Creme de Cacao), Banshee (Creme de Banane instead of Creme de Menthe and 2 parts of Cream)",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "White Creme de Cacao"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Creme de Menthe"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Cream"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Shaved Chocolate"
+}

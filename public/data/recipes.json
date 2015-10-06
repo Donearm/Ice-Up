@@ -1,0 +1,5907 @@
+[
+	{
+		"id": "absinthe-no-2",
+		"name": "Absinthe N°2",
+		"method": "Stir and strain",
+		"ingredients": [
+		{
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Absinthe"
+		},
+		{
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "aldo-s-fancy",
+		"name": "Aldo's Fancy",
+		"method": "Mix Cognac and Marsala. Add Maraschino and bitters. Mix, stronger",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Cognac"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Marsala"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Drops",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Sugar rim"
+	},
+	{
+		"id": "alexander",
+		"name": "Alexander",
+		"method": "Shake with half ice. Strain",
+		"variations": "Coffee Alexander (Coffee Liqueu instead of Gin), Blue Alexander (Blue Curaçao instead of Creme de Cacao)",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Cream"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Creme de Cacao"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Grated Nutmeg"
+
+	},
+	{
+		"id": "amaretto-sour",
+		"name": "Amaretto Sour",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Amaretto Liqueur"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Splash",
+			"ingredientName": "Gomme Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Whole",
+			"ingredientName": "Egg White"
+		}
+		],
+		"glass": "Coupette Glass",
+		"garnish": "Lemon Zest and Cherry"
+	},
+	{
+		"id": "amber-dream",
+		"name": "Amber Dream",
+		"description": "From Barkeeper's Golden Book (1935)",
+		"method": "Stir and strain",
+		"variations": "Club Cocktail (Sweet instead of Dry Vermouth)",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Vermouth"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Splash",
+			"ingredientName": "Yellow Chartreuse"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Orange Bitters"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Flamed Orange Zest"
+	},
+	{
+		"id": "americano",
+		"name": "Americano",
+		"method": "Pour over glass into ice",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Sweet Vermouth"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Campari"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Soda Water"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Lemon Zest and Orange Slice"
+	},
+	{
+		"id": "aperol-orange",
+		"name": "Aperol Orange",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "",
+			"amountUnits": "",
+			"ingredientName": "Aperol"
+		},
+		{
+			"parts": "1",
+			"amount": "",
+			"amountUnits": "",
+			"ingredientName": "Orange Juice"
+		}
+		],
+		"glass": "Highball Glass"
+	},
+	{
+		"id": "aperol-spritz",
+		"name": "Aperol Spritz",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Aperol"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Prosecco/Sparkling Wine"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Orange Twist"
+	},
+	{
+		"id": "apple-martini",
+		"name": "Apple Martini (Appletini)",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Apple Juice or Apple Cider or Apple Liqueur"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Apple Slice"
+	},
+	{
+		"id": "apricot-cocktail",
+		"name": "Apricot Cocktail",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Apricot Brandy"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Cherry and Flamed Orange Zest"
+	},
+	{
+		"id": "apricot-mango-martini",
+		"name": "Apricot-Mango Martini",
+		"method": "Muddle the Mango pieces in shaker. Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "7",
+			"amount": "7",
+			"amountUnits": "cl",
+			"ingredientName": "Tanqueray Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Apricot Brandy"
+		},
+		{
+			"parts": "2",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "3",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "4",
+			"amountUnits": "Slices",
+			"ingredientName": "Mango"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lemon Zest"
+	},
+	{
+		"id": "aviation",
+		"name": "Aviation",
+		"method": "Shake hard, fine strain",
+		"variations": "Blue Moon (remove Maraschino), Moonlight (Lime instead of Lemon and Cointreau instead of Maraschino)",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "London Dry Gin"
+		},
+		{
+			"parts": "3",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "3",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Maraschino"
+		},
+		{
+			"parts": "1",
+			"amount": "0.5",
+			"amountUnits": "cl",
+			"ingredientName": "Creme de Violette"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Cherry"
+	},
+	{
+		"id": "b52",
+		"name": "B52",
+		"method": "Layer in order",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Kahlua"
+		},
+		{
+			"parts": "1",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Bailey's"
+		},
+		{
+			"parts": "1",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Grand Marnier"
+		}
+		],
+		"glass": "Shot or Highball Glass"
+	},
+	{
+		"id": "bacardi-cocktail",
+		"name": "Bacardi Cocktail",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "9",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Bacardi Rum"
+		},
+		{
+			"parts": "4",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "0.5",
+			"amountUnits": "cl",
+			"ingredientName": "Grenadine Syrup"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "bacardi-fizz",
+		"name": "Bacardi Fizz",
+		"method": "Shake first all ingredients with half the rum. Then add the rest of the rum and shake again. Strain and top",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Rum"
+		},
+		{
+			"parts": "1",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Egg Albumen"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Teaspoon",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Seltz Water"
+		}
+		],
+		"glass": "Highball Glass"
+	},
+	{
+		"id": "bacardi-martini",
+		"name": "Bacardi Martini",
+		"method": "Stir and strain",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Bacardi White Rum"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Dry Vermouth"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lime Peel"
+	},
+	{
+		"id": "banana-daiquiri",
+		"name": "Banana Daiquiri",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "9",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Rum"
+		},
+		{
+			"parts": "4",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "0.5",
+			"amountUnits": "cl",
+			"ingredientName": "Gomme Syrup"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "barnamint-bailey-s",
+		"name": "Barnamint Bailey's",
+		"method": "Blend in blender",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Bailey's"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Creme de Menthe"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Milk"
+		},
+		{
+			"parts": "",
+			"amount": "3",
+			"amountUnits": "",
+			"ingredientName": "Oreo Cookies"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Scoops",
+			"ingredientName": "Vanilla Ice Cream"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Scoop",
+			"ingredientName": "Crushed Ice"
+		}
+		],
+		"glass": "Wine Glass",
+		"garnish": "Oreo Cookie"
+	},
+	{
+		"id": "barracuda",
+		"name": "Barracuda",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Gold Rum"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Galliano"
+		},
+		{
+			"parts": "4",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Prosecco"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "",
+		"name": "",
+		"description": "",
+		"method": "",
+		"variations": "",
+		"ingredients": [
+		{
+			"parts": "",
+			"amount": "",
+			"amountUnits": "cl",
+			"ingredientName": ""
+		},
+		{
+			"parts": "",
+			"amount": "",
+			"amountUnits": "cl",
+			"ingredientName": ""
+		},
+		{
+			"parts": "",
+			"amount": "",
+			"amountUnits": "cl",
+			"ingredientName": ""
+		}
+		],
+		"glass": "",
+		"garnish": ""
+	},
+	{
+		"id": "batida",
+		"name": "Batida",
+		"method": "Mix in a glass full of ice",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Cachaça"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Fruit Juice of choice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Tablespoon",
+			"ingredientName": "Sugar"
+		}
+		],
+		"glass": "Highball Glass"
+	},
+	{
+		"id": "bay-breeze",
+		"name": "Bay Breeze",
+		"method": "Build in glass. Float the Pineapple Juice",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Cranberry Juice"
+		},
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		}
+		],
+		"glass": "Highball Glass"
+	},
+	{
+		"id": "bee-s-kiss",
+		"name": "Bee's Kiss",
+		"description": "From the Ritz Bar in Paris (1936)",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "White Rum"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Cream"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Teaspoons",
+			"ingredientName": "Honey"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "bee-s-knees",
+		"name": "Bee's Knees",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Gin"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Tablespoon",
+			"ingredientName": "Honey"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "bellini",
+		"name": "Bellini",
+		"method": "Build in glass. Stir gently",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Peach Pureé"
+		},
+		{
+			"parts": "2",
+			"amount": "10",
+			"amountUnits": "cl",
+			"ingredientName": "Prosecco"
+		}
+		],
+		"glass": "Sparkling Wine Glass"
+	},
+	{
+		"id": "between-the-sheets",
+		"name": "Between The Sheets",
+		"description": "Created in 1930s by Harry MacElhone, Harry's New York Bar, Paris",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "White Rum"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Cognac"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau/Triple Sec"
+		},
+		{
+			"parts": "1.5",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lemon Twist"
+	},
+	{
+		"id": "black-martini",
+		"name": "Black Martini",
+		"method": "Shake, gently, and strain",
+		"variations": "4 parts Vodka, 2 Strawberry Liqueur and 1 Blue Curaçao",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Black Sambuca"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "black-rose",
+		"name": "Black Rose",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Bourbon"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Grenadine"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Peychaud's Bitters"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Flamed Lemon Zest"
+	},
+	{
+		"id": "black-russian",
+		"name": "Black Russian",
+		"method": "Build in glass. Stir gently",
+		"variations": "Dirty Black Russian (top with Cola), Black Magic (add a dash of Lemon Juice and garnish with a Lemon twist), Irish Russian (top with Guinness), Brown Russian (top with Ginger Ale), Brave Bull/Dirty Mother (Tequila instead of Vodka)",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Coffee Liqueur (Kahlua/Tia Maria)"
+		}
+		],
+		"glass": "Old Fashioned Glass"
+	},
+	{
+		"id": "black-velvet",
+		"name": "Black Velvet",
+		"method": "Pour slowly and stir",
+		"variations": "Poor Man's Black Velvet (replace Guinness with Cider)",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Guinness"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Champagne"
+		}
+		],
+		"glass": "Sparkling Wine Glass"
+	},
+	{
+		"id": "black-widow",
+		"name": "Black Widow",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Myer's Rum or other Dark Rum"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "White Creme de Menthe"
+		}
+		],
+		"glass": "Old Fashioned Glass"
+	},
+	{
+		"id": "blood-orange-bubbles",
+		"name": "Blood Orange Bubbles",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Aperol"
+		},
+		{
+			"parts": "1",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Red Orange Juice"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Champagne"
+		}
+		],
+		"glass": "Champagne Flute"
+	},
+	{
+		"id": "blood-orange-cosmo",
+		"name": "Blood Orange Cosmo",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Vodka"
+		},
+		{
+			"parts": "1.5",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Triple Sec/Cointreau"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Red Orange Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Splash",
+			"ingredientName": "Cranberry Juice"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Orange Slice"
+	},
+	{
+		"id": "bloody-mary",
+		"name": "Bloody Mary",
+		"method": "",
+		"variations": "Red Snapper (replace Vodka with Gin), Bloody Caesar (replace Tomato Juice with Clamato Juice), Bull Shot (replace Tomato Juice with Beef Bouillon or Beef Consomme)",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Pinch",
+			"ingredientName": "Black Pepper"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Pinch",
+			"ingredientName": "Celery Salt"
+		},
+		{
+			"parts": "",
+			"amount": "4",
+			"amountUnits": "Dashes",
+			"ingredientName": "Tabasco (or to taste)"
+		},
+		{
+			"parts": "",
+			"amount": "3",
+			"amountUnits": "Dashes",
+			"ingredientName": "Worcestershire Sauce (or to taste)"
+		},
+		{
+			"parts": "8",
+			"amount": "8",
+			"amountUnits": "cl",
+			"ingredientName": "Tomato Juice"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Salt or Pepper Rim and Celery Stick"
+	},
+	{
+		"id": "blow-job",
+		"name": "Blow Job",
+		"method": "Layer in order",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Coffee Liqueur (Kahlua/Tia Maria)"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Bailey's"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Whipped Cream"
+		}
+		],
+		"glass": "Shot Glass"
+	},
+	{
+		"id": "blue-hawaiian",
+		"name": "Blue Hawaiian",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Rum"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Blue Curaçao"
+		},
+		{
+			"parts": "2",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Coconut Cream"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Maraschino Cherry and Pineapple Slice"
+	},
+	{
+		"id": "blue-hawaii",
+		"name": "Blue Hawaii",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Rum"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Curaçao"
+		},
+		{
+			"parts": "10",
+			"amount": "10",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		},
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Sweet and Sour Mix"
+		}
+		],
+		"glass": "Hurrican Glass",
+		"garnish": "Pineapple or Orange Slice and Maraschino Cherry on a toothpick"
+	},
+	{
+		"id": "blue-lagoon",
+		"name": "Blue Lagoon",
+		"method": "Shake only Vodka first. Then add Curaçao and shake again. Strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Blue Curaçao"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Lemonade"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Sugar Rim"
+	},
+	{
+		"id": "blue-monday",
+		"name": "Blue Monday",
+		"description": "From Harry Craddock's Savoy Cocktail Book",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "4.5",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1.5",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Blue Curaçao"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Flamed Orange Zest"
+	},
+	{
+		"id": "bobby-burns",
+		"name": "Bobby Burns",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Scotch Whisky"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Sweet Vermouth"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Benedictine D.O.M."
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lemon Twist"
+	},
+	{
+		"id": "boomerang",
+		"name": "Boomerang",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Gin"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Vermouth"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Teaspoon",
+			"ingredientName": "Maraschino"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "brain-haemorrhage",
+		"name": "Brain Haemorrhage",
+		"method": "Layer in order. Sink the Grenadine",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Peach Liqueur"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Bailey's"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Drop",
+			"ingredientName": "Grenadine Syrup"
+		}
+		],
+		"glass": "Shot Glass"
+	},
+	{
+		"id": "bramble",
+		"name": "Bramble",
+		"description": "Created by Dick Bradsell",
+		"method": "Build in glass over crushed ice",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "London Dry Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Blackberry Liqueur"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Lemon Slice and 2 Blackberries"
+	},
+	{
+		"id": "brandy-alexander",
+		"name": "Brandy Alexander",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Brandy"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Creme de Cacao"
+		},
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Cream"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Grated Nutmeg"
+	},
+	{
+		"id": "brandy-cocktail",
+		"name": "Brandy Cocktail",
+		"description": "From Jerry Thomas' The Bon-Vivant's Companion Or How To Mix Drinks (1862)",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Brandy"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Curaçao"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Peychaud's Bitters"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lemon Zest"
+	},
+	{
+		"id": "brandy-sour",
+		"name": "Brandy Sour",
+		"method": "Stir and strain. Top with Water And Lemon",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Brandy"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Water And Lemon (made with 1 part of Lemon Juice and 4-5 parts of Water)"
+		},
+		{
+			"parts": "",
+			"amount": "2-4",
+			"amountUnits": "Drops",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Highball Glass"
+	},
+	{
+		"id": "brass-monkey",
+		"name": "Brass Monkey",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Rum (preferably dark)"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		}
+		],
+		"glass": "Highball Glass"
+	},
+	{
+		"id": "brassy-blonde",
+		"name": "Brassy Blonde",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Citron Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Splash",
+			"ingredientName": "Cointreau"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "breakfast-martini",
+		"name": "Breakfast Martini",
+		"method": "Stir in mixing glass",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Bombay Sapphire Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Triple Sec/Cointreau"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Tablespoon",
+			"ingredientName": "Orange Marmalade"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Orange Twist or a Slice of a Toast"
+	},
+	{
+		"id": "bronx",
+		"name": "Bronx",
+		"description": "Created in 1906 by Johnny Solon, Waldorf-Astoria, NY",
+		"method": "Shake hard and fine strain",
+		"variations": "Income Tax (add 2 dashes of Angostura Bitters), Satan's Whiskers (add 1.5cl of Grand Marnier)",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Vermouth"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Sweet Vermouth"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Orange Twist"
+	},
+	{
+		"id": "brooklyn",
+		"name": "Brooklyn",
+		"method": "Stir in mixing glass",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Bourbon"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Maraschino"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Vermouth"
+		},
+		{
+			"parts": "",
+			"amount": "3",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Maraschino Cherry"
+	},
+	{
+		"id": "brown-derby",
+		"name": "Brown Derby",
+		"description": "From the Vendome Club in Hollywood, 1930",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "8",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Bourbon"
+		},
+		{
+			"parts": "4",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Grapefruit Juice"
+		},
+		{
+			"parts": "2",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Honey Syrup"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "buck-s-fizz",
+		"name": "Buck's Fizz",
+		"method": "Pour the Juice then the Champagne. Mix gently",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "10",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Champagne"
+		}
+		],
+		"glass": "Champagne Flute",
+		"garnish": "Orange Peel"
+	},
+	{
+		"id": "bush-fire",
+		"name": "Bush Fire",
+		"method": "Build in glass. Sink the Tabasco",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Tequila"
+		},
+		{
+			"parts": "",
+			"amount": "4",
+			"amountUnits": "Dashes",
+			"ingredientName": "Tabasco"
+		}
+		],
+		"glass": "Shot Glass"
+	},
+	{
+		"id": "caipirinha",
+		"name": "Caipirinha",
+		"description": "",
+		"method": "Muddle in glass. Pour Cachaça. Fill with crushed ice",
+		"variations": "Caipiroska (Vodka instead of Cachaça), Rabo de Galo (2/3 Cachaça and 1/3 Red Vermouth)",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Cachaça"
+		},
+		{
+			"parts": "",
+			"amount": "6",
+			"amountUnits": "Wedges",
+			"ingredientName": "Lime"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Barspoon",
+			"ingredientName": "Brown Sugar"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "cape-codder",
+		"name": "Cape Codder",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Cranberry Juice"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "cape-cod",
+		"name": "Cape Cod",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Cranberry Juice"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "caribbean-sling",
+		"name": "Caribbean Sling",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Rum"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Cointreau/Triple Sec"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Squeeze",
+			"ingredientName": "Lime or Lemon"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Maraschino Cherry"
+	},
+	{
+		"id": "champagne-cocktail",
+		"name": "Champagne Cocktail",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Cognac"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Champagne"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Sugar cube soaked with Angostura bitters"
+		}
+		],
+		"glass": "Sparkling Wine Glass",
+		"garnish": "Orange Zest"
+	},
+	{
+		"id": "chicago",
+		"name": "Chicago",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Brandy"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Curaçao"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "chocolate-martini",
+		"name": "Chocolate Martini",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Creme de Cacao"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "chocolate-punch",
+		"name": "Chocolate Punch",
+		"description": "From 'The Flowing Bowl' by William Schmidt, 1891",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Cognac"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Port"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Dark Creme de Cacao"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Cream"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Grated Nutmeg"
+	},
+	{
+		"id": "churchill",
+		"name": "Churchill",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Whisky"
+		},
+		{
+			"parts": "1",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Sweet Vermouth"
+		},
+		{
+			"parts": "1",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "cigar-lover-s-martini",
+		"name": "Cigar Lover's Martini",
+		"description": "By Andrea Immer",
+		"method": "Stir and strain",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "7.5",
+			"amountUnits": "cl",
+			"ingredientName": "VS Cognac"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Tawny Port"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Flamed Orange Zest"
+	},
+	{
+		"id": "claremont",
+		"name": "Claremont",
+		"method": "Muddle fruits, bitters and Curaçao. Build Soda and Bourbon in glass",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Bourbon"
+		},
+		{
+			"parts": "4",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Soda Water"
+		},
+		{
+			"parts": "3",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Curaçao"
+		},
+		{
+			"parts": "",
+			"amount": "3",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Orange Slice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Cherry"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Orange Slice and Cherry"
+	},
+	{
+		"id": "claret-lemonade",
+		"name": "Claret Lemonade",
+		"description": "From 'Bartender Manual' by Harry Johnson, 1898",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "12",
+			"amount": "12",
+			"amountUnits": "cl",
+			"ingredientName": "Red Wine"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		}
+		],
+		"glass": "Goblet",
+		"garnish": "Lemon Wheel"
+	},
+	{
+		"id": "clover-club",
+		"name": "Clover Club",
+		"method": "Dry shake, wet shake, fine strain",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Gin"
+		},
+		{
+			"parts": "1.5",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Raspberry or Grenadine Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Egg White"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lemon Zest"
+	},
+	{
+		"id": "cobbler",
+		"name": "Cobbler",
+		"method": "Shake hard and strain over crushed ice",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Brandy"
+		},
+		{
+			"parts": "1",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Red Wine"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Mint Sprig"
+	},
+	{
+		"id": "coffee-cocktail",
+		"name": "Coffee Cocktail",
+		"method": "Shake hard and strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Brandy/Cognac"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Ruby Port"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Egg"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Tablespoon",
+			"ingredientName": "Sugar"
+		}
+		],
+		"glass": "Wine Glass",
+		"garnish": "Grated Nutmeg"
+	},
+	{
+		"id": "corpse-reviver-2",
+		"name": "Corpse Reviver #2",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Triple Sec"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Vermouth"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Splash",
+			"ingredientName": "Absinthe"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lemon Zest"
+	},
+	{
+		"id": "cosmopolitan-delight",
+		"name": "Cosmopolitan Delight",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Brandy"
+		},
+		{
+			"parts": "2",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Curaçao"
+		},
+		{
+			"parts": "2",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "4",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Splash",
+			"ingredientName": "Orgeat"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Red Wine"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Seasonal Fruit on rim"
+	},
+	{
+		"id": "cosmopolitan",
+		"name": "Cosmopolitan",
+		"method": "Shake hard and fine strain",
+		"variations": "Rude Cosmo (Tequila instead of Vodka), Blue Cosmopolitan (white Cranberry Juice instead of red and Blue Curaçao instead of Triple Sec), Cosmocello (Limoncello instead of Lime Juice), Peach Cosmopolitan (Peach Schnapps instead of Triple Sec and Peach Juice instead of Cranberry), Caribe Cosmopolitan (Lemon Rum instead of Vodka)",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau/Triple Sec"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Cranberry Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Orange Bitters"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Flamed Orange Zest"
+	},
+	{
+		"id": "cuba-libre",
+		"name": "Cuba Libre",
+		"method": "Build in glass",
+		"variations": "Fidel Castro (replace Cola with Ginger Ale)",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Cuban style Rum"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Coca Cola"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "culto-a-la-vida",
+		"name": "Culto A La Vida",
+		"method": "Blend Sugar and Lime Juice. Then add ice, blend again.  Finally add the Raspberry Juice and the Rum. Blend",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Rum"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Tablespoon",
+			"ingredientName": "Sugar"
+		},
+		{
+			"parts": "8",
+			"amount": "8",
+			"amountUnits": "cl",
+			"ingredientName": "Raspberry Juice"
+		}
+		],
+		"glass": "Highball Glass"
+	},
+	{
+		"id": "daiquiri-floridita",
+		"name": "Daiquiri Floridita",
+		"method": "Shake with crushed ice and strain",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "White Rum"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Maraschino"
+		}
+		],
+		"glass": "Champagne/Cocktail Glass"
+	},
+	{
+		"id": "daiquiri",
+		"name": "Daiquiri",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "9",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "White Rum"
+		},
+		{
+			"parts": "5",
+			"amount": "2.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "3",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "dark-n-stormy",
+		"name": "Dark'n'Stormy",
+		"method": "Build in glass",
+		"variations": "Clear and Sunny (Vodka instead of Rum), Partly Cloudy (Vodka instead of Rum and Gatorade instead of Beer)",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Gosling's Black Rum"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Ginger Beer"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "death-in-the-afternoon",
+		"name": "Death In The Afternoon",
+		"method": "Build in glass. Stir gently",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Absinthe/Pastis"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Champagne"
+		}
+		],
+		"glass": "Champagne Glass"
+	},
+	{
+		"id": "derby-cocktail",
+		"name": "Derby Cocktail",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Whisky"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Vermouth"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Curaçao"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lime Wedge and Mint Leaf"
+	},
+	{
+		"id": "douglas-fairbanks",
+		"name": "Douglas Fairbanks",
+		"method": "Shake very hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Apricot Brandy"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "1.5",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Egg White"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "east-india",
+		"name": "East India",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "12",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Cognac"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Grand Marnier"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Maraschino"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Grenadine Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Orange Twist"
+	},
+	{
+		"id": "el-presidente",
+		"name": "El Presidente",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "White Rum"
+		},
+		{
+			"parts": "3",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple"
+		},
+		{
+			"parts": "2",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "0.75",
+			"amountUnits": "cl",
+			"ingredientName": "Grenadine Syrup"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "espresso-martini",
+		"name": "Espresso Martini",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Coffee Liqueur (Kahlua/Tia Maria)"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Chilled Espresso Coffee"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup (optional)"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "3 Coffee Beans"
+	},
+	{
+		"id": "et",
+		"name": "E.T.",
+		"method": "Layer in order",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Midori"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Bailey's"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		}
+		],
+		"glass": "Shot Glass"
+	},
+	{
+		"id": "executive-slammer",
+		"name": "Executive Slammer",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Tequila"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Champagne"
+		}
+		],
+		"glass": "Old Fashioned Glass"
+	},
+	{
+		"id": "fish-house-punch",
+		"name": "Fish House Punch",
+		"description": "There's a little place just out of town; Where, if you go to lunch, They'll make you forget your mother-in-law; With a drink called Fish-House Punch.",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "75",
+			"amountUnits": "cl",
+			"ingredientName": "Gold Rum"
+		},
+		{
+			"parts": "3",
+			"amount": "75",
+			"amountUnits": "cl",
+			"ingredientName": "Brandy"
+		},
+		{
+			"parts": "2",
+			"amount": "50",
+			"amountUnits": "cl",
+			"ingredientName": "Peach Liqueur"
+		},
+		{
+			"parts": "2",
+			"amount": "50",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "25",
+			"amountUnits": "cl",
+			"ingredientName": "Gomme Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "Top with 120",
+			"amountUnits": "cl",
+			"ingredientName": "Soda Water"
+		}
+		],
+		"glass": "Bowl",
+		"garnish": "Grated Nutmeg and Lemon Slice"
+	},
+	{
+		"id": "fitzgerald",
+		"name": "Fitzgerald",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Lemon Wedge"
+	},
+	{
+		"id": "flirtini",
+		"name": "Flirtini",
+		"method": "Muddle strawberries in the flute. Stir and fine strain the rest",
+		"ingredients": [
+		{
+			"parts": "",
+			"amount": "3-4",
+			"amountUnits": "",
+			"ingredientName": "Strawberries"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Strawberry Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau/Triple Sec"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Splash",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Splash",
+			"ingredientName": "Pineapple Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Splash",
+			"ingredientName": "Raspberry Juice"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Champagne"
+		}
+		],
+		"glass": "Champagne Flute",
+		"garnish": "Mint Sprig"
+	},
+	{
+		"id": "french-75",
+		"name": "French 75",
+		"method": "Shake hard, fine strain, top and stir gently",
+		"variations": "French 76 (Vodka instead of Gin)",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "3",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Champagne"
+		}
+		],
+		"glass": "Sparkling Wine Glass",
+		"garnish": "Lemon Zest"
+	},
+	{
+		"id": "french-connection",
+		"name": "French Connection",
+		"method": "Build in glass. Stir gently",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3.5",
+			"amountUnits": "cl",
+			"ingredientName": "Cognac"
+		},
+		{
+			"parts": "3",
+			"amount": "3.5",
+			"amountUnits": "cl",
+			"ingredientName": "Amaretto Liqueur"
+		}
+		],
+		"glass": "Old Fashioned Glass"
+	},
+	{
+		"id": "french-martini",
+		"name": "French Martini",
+		"method": "Stir in mixing glass and strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Chambord"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lemon Zest"
+	},
+	{
+		"id": "garibaldi",
+		"name": "Garibaldi",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Campari"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Orange Juice"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Orange Slice"
+	},
+	{
+		"id": "gimlet",
+		"name": "Gimlet",
+		"method": "Stir in mixing glass",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Roses Lime Cordial"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "gin-and-tonic",
+		"name": "Gin and Tonic",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Tonic Water"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "gin-fizz",
+		"name": "Gin Fizz",
+		"method": "Shake and strain",
+		"variations": "Sloe Gin Fizz (Sloe Gin, simple Sugar and 1 Egg White instead of normal Gin and the Syrup), Golden Fizz (add 1 Egg Yolk and make it 4.5 parts of Sugar Syrup), Royal Fizz (add 1 whole Egg and make it 4.5 parts of Sugar Syrup)",
+		"ingredients": [
+		{
+			"parts": "4.5",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Gomme or Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Soda Water"
+		}
+		],
+		"glass": "Highball Glass"
+	},
+	{
+		"id": "gin-rickey",
+		"name": "Gin Rickey",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Soda Water"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "gin-sling",
+		"name": "Gin Sling",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "4.5",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Sweet Vermouth"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Angostura Bitters"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Soda Water"
+		}
+		],
+		"glass": "Highball Glass"
+	},
+	{
+		"id": "gin-sour",
+		"name": "Gin Sour",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1/2",
+			"amountUnits": "Teaspoon",
+			"ingredientName": "Sugar"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Orange Slice"
+	},
+	{
+		"id": "godfather",
+		"name": "Godfather",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Scotch Whisky"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Amaretto Liqueur"
+		}
+		],
+		"glass": "Old Fashioned Glass"
+	},
+	{
+		"id": "godmother",
+		"name": "Godmother",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Amaretto Liqueur"
+		}
+		],
+		"glass": "Old Fashioned Glass"
+	},
+	{
+		"id": "golden-cadillac",
+		"name": "Golden Cadillac",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Galliano"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Creme de Cacao"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Cream"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "golden-dawn",
+		"name": "Golden Dawn",
+		"description": "By Tom Buttery",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "3",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "3",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Apricot Brandy"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Grenadine Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Orange Wedge and Cherry"
+	},
+	{
+		"id": "grasshopper",
+		"name": "Grasshopper",
+		"method": "Shake hard and fine strain",
+		"variations": "Flying Grasshopper (Vodka instead of Cream), Brown Grasshopper (add Coffee), Coffee Grasshopper (Coffee Liqueur instead of Creme de Cacao), Banshee (Creme de Banane instead of Creme de Menthe and 2 parts of Cream)",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "White Creme de Cacao"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Creme de Menthe"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Cream"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Shaved Chocolate"
+	},
+	{
+		"id": "grey-hound",
+		"name": "Grey Hound",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Grapefruit Juice"
+		}
+		],
+		"glass": "Highball Glass"
+	},
+	{
+		"id": "hanky-panky-martini",
+		"name": "Hanky-Panky Martini",
+		"description": "Created by Ada Coleman, first Bar Manager of American Bar, Savoy Hotel",
+		"method": "Stir in mixing glass",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Gin"
+		},
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Sweet Vermouth"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Splash",
+			"ingredientName": "Fernet Branca"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Orange Twist"
+	},
+	{
+		"id": "harvey-wallbanger",
+		"name": "Harvey Wallbanger",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "8",
+			"amount": "8",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Galliano"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Orange Slice or Maraschino Cherry"
+	},
+	{
+		"id": "hemingway-special",
+		"name": "Hemingway Special",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Light Rum"
+		},
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Grapefruit Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Maraschino"
+		},
+		{
+			"parts": "",
+			"amount": "",
+			"amountUnits": "",
+			"ingredientName": "Simple Syrup to taste (optional)"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Orange Slice"
+	},
+	{
+		"id": "horse-s-neck",
+		"name": "Horse's Neck",
+		"method": "Stir in glass",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Brandy/Cognac"
+		},
+		{
+			"parts": "3",
+			"amount": "12",
+			"amountUnits": "cl",
+			"ingredientName": "Ginger Ale"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Lemon Peel Spiral (put in glass before everything else, ice included)"
+	},
+	{
+		"id": "hurricane",
+		"name": "Hurricane",
+		"method": "Shake hard and strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Light Rum"
+		},
+		{
+			"parts": "3",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Dark Rum"
+		},
+		{
+			"parts": "3",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "3",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Roses Lime Cordial or Sugar Syrup"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Passion Fruit Syrup"
+		}
+		],
+		"glass": "Hurricane Glass/Collins Glass",
+		"garnish": "Lime Wedge and Cherry"
+	},
+	{
+		"id": "irish-coffee",
+		"name": "Irish Coffee",
+		"method": "Heat Coffee, Whiskey and Sugar. Do not boil. Build in glass and top with Cream",
+		"variations": "Café Amore (2cl Brandy and 2cl Amaretto instead of Whiskey), Calypso Coffee (Rum and Kahlua, 2cl/2cl, instead of Whiskey), Mexican Coffee (2cl Tequila and 2cl Kahlua instead of Whiskey), Kioke Coffee (2cl Brandy and 2cl Kahlua instead of Whiskey)",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Whiskey"
+		},
+		{
+			"parts": "4",
+			"amount": "8",
+			"amountUnits": "cl",
+			"ingredientName": "Hot Coffee"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Teaspoon",
+			"ingredientName": "Brown Sugar"
+		},
+		{
+			"parts": "1.5",
+			"amount": "Top with 3",
+			"amountUnits": "cl",
+			"ingredientName": "Cream"
+		}
+		],
+		"glass": "Mug"
+	},
+	{
+		"id": "italia-libre",
+		"name": "Italia Libre",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "7",
+			"amount": "7",
+			"amountUnits": "cl",
+			"ingredientName": "Chinotto"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Dark Rum"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Lemon Wedge"
+	},
+	{
+		"id": "jack-and-coke",
+		"name": "Jack and Coke",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Jack Daniel's"
+		},
+		{
+			"parts": "3",
+			"amount": "12",
+			"amountUnits": "cl",
+			"ingredientName": "Coca Cola"
+		}
+		],
+		"glass": "Collins Glass"
+	},
+	{
+		"id": "jack-rose",
+		"name": "Jack Rose",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Calvados"
+		},
+		{
+			"parts": "1.5",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Grenadine Syrup"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lemon Wedge"
+	},
+	{
+		"id": "japanese-slipper",
+		"name": "Japanese Slipper",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Midori"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Melon Slice"
+	},
+	{
+		"id": "john-collins",
+		"name": "John Collins",
+		"method": "Build and stir in glass",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Angostura Bitters"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Soda Water"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Lemon Slice and Maraschino Cherry"
+	},
+	{
+		"id": "june-bug",
+		"name": "June Bug",
+		"method": "Shake hard and strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Midori"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Malibu Coconut Cream"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Creme de Banane"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Lime Wedge and Pineapple Wedge"
+	},
+	{
+		"id": "kamikaze",
+		"name": "Kamikaze",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau/Triple Sec"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		}
+		],
+		"glass": "Cocktail Glass/Old Fashioned Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "kir",
+		"name": "Kir",
+		"method": "Build and stir gently in glass",
+		"variations": "Kir Royal (Champagne instead of White Wine), Cardinal (Red instead of White Wine), Normand (Cider instead of Wine), Cidre Royal (Cider and Calvados instead of Wine), Peche (with Peach Liqueur instead of Creme de Cassis), Pamplemousse (Grapefruit Liqueur added), Tarantino (with Lager Beer instead of Wine), Pink Russian (with Milk instead of Wine)",
+		"ingredients": [
+		{
+			"parts": "9",
+			"amount": "9",
+			"amountUnits": "cl",
+			"ingredientName": "Sparkling White Wine"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Creme de Cassis"
+		}
+		],
+		"glass": "Wine Goblet"
+	},
+	{
+		"id": "kremlin",
+		"name": "Kremlin",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Rum"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Teaspoon",
+			"ingredientName": "Grenadine Syrup"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "le-fleur-vert",
+		"name": "Le Fleur Vert",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Kiwi Juice"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "",
+			"ingredientName": "Basil Leaves"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Champagne"
+		}
+		],
+		"glass": "Champagne Glass"
+	},
+	{
+		"id": "lemon-drop",
+		"name": "Lemon Drop",
+		"method": "Drop the sugar cube in glass. Shake hard and fine strain. Pour over sugar",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Vodka"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Sugar Cube"
+		}
+		],
+		"glass": "Shot Glass"
+	},
+	{
+		"id": "lemon-drop-martini",
+		"name": "Lemon Drop Martini",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "2.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau/Triple Sec"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Sugar Rim and Lemon Wedge"
+	},
+	{
+		"id": "london-iced-tea",
+		"name": "London Iced Tea",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Rum"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Amaretto Liqueur"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Coca Cola"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Lemon Wedge"
+	},
+	{
+		"id": "long-beach-iced-tea",
+		"name": "Long Beach Iced Tea",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "White Rum"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Tequila"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau/Triple Sec"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Cranberry Juice"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Lemon Wedge"
+	},
+	{
+		"id": "long-island-iced-tea",
+		"name": "Long Island Iced Tea",
+		"method": "Build in glass, or shake and strain",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "White Rum"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Tequila"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau/Triple Sec"
+		},
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Gomme Syrup"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Coca Cola"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Lemon Twist"
+	},
+	{
+		"id": "lynchburg-lemonade",
+		"name": "Lynchburg Lemonade",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Jack Daniel's"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Triple Sec"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Lemonade/Sprite"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Lemon Wedge"
+	},
+	{
+		"id": "mai-tai",
+		"name": "Mai-tai",
+		"description": "Created in 1944 by Trader Vic",
+		"method": "Shake hard and strain over crushed ice. Float the Dark rum on top",
+		"ingredients": [
+		{
+			"parts": "8",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Light Rum (Jamaican)"
+		},
+		{
+			"parts": "4",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Dark Rum (Jamaican)"
+		},
+		{
+			"parts": "2",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "3",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Triple Sec/Orange Curaçao"
+		},
+		{
+			"parts": "3",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Orgeat"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Lime Zest and Pineapple Wedge"
+	},
+	{
+		"id": "manhattan",
+		"name": "Manhattan",
+		"method": "Stir in mixing glass and strain",
+		"variations": "Rob Roy (use Scotch Whisky), Brandy Manhattan (Brandy instead of Whiskey), Metropolitan (3:1 ratio Whiskey and Vermouth), Cuban Manhattan (Dark Rum instead of Whiskey), Tijuana Manhattan (Anejo Tequila instead of Whiskey), Fourth Regiment (1:1 ratio of Whiskey and Vermouth and 3 dashes, 1 each, of Orange, Celery and Peychaud's Bitters)",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Rye or Bourbon"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		},
+		{
+			"parts": "2",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Sweet Vermouth (Sweet Manhattan)/Dry Vermouth (Dry Manhattan)/1 part each (Perfect Manhattan)"
+		}
+		],
+		"glass": "Cocktail/Old Fashioned Glass",
+		"garnish": "Maraschino Cherry (Sweet Manhattan)/Lemon Twist (Dry Manhattan)/Orange Twist and Lemon Twist and Maraschino Cherry (Perfect Manhattan)"
+	},
+	{
+		"id": "margarita",
+		"name": "Margarita",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "7",
+			"amount": "3.5",
+			"amountUnits": "cl",
+			"ingredientName": "Tequila"
+		},
+		{
+			"parts": "4",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Triple Sec"
+		},
+		{
+			"parts": "3",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "2",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		}
+		],
+		"glass": "Cocktail/Old Fashioned Glass",
+		"garnish": "Lime Wedge and Salt Rim"
+	},
+	{
+		"id": "martinez",
+		"name": "Martinez",
+		"method": "Stir in mixing glass and strain",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Old Tom Gin"
+		},
+		{
+			"parts": "1.5",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Sweet Vermouth"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Maraschino"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "martini",
+		"name": "Martini",
+		"method": "Stir in mixing glass and strain",
+		"variations": "Wet Martini (slightly more Vermouth), Gibson (Pickled Onion as garnish), Kangeroo/Vodka Martini (Vodka instead of Gin), Dirty Martini (Vodka instead of Gin and 2 parts of Olive Juice)",
+		"ingredients": [
+		{
+			"parts": "12",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Vermouth"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lemon Twist or Olive(s) on a stick"
+	},
+	{
+		"id": "mary-pickford",
+		"name": "Mary Pickford",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "White Rum"
+		},
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Maraschino"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Grenadine Syrup"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "midori-sour",
+		"name": "Midori Sour",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Midori"
+		},
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Sweet & Sour Mix"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Lemon Wedge and Cherry"
+	},
+	{
+		"id": "mimosa",
+		"name": "Mimosa",
+		"method": "Build in glass. Stir gently",
+		"variations": "Grand Mimosa (add 2 parts of Grand Marnier and 50/50 of Champagne and Orange Juice)",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "7.5",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Champagne"
+		}
+		],
+		"glass": "Champagne Flute"
+	},
+	{
+		"id": "mint-julep",
+		"name": "Mint Julep",
+		"method": "Muddle ingredients except Bourbon in glass. Add crushed ice and Bourbon. Churn",
+		"variations": "Kremlin Colonel (Vodka instead of Bourbon)",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Bourbon"
+		},
+		{
+			"parts": "",
+			"amount": "4",
+			"amountUnits": "",
+			"ingredientName": "Mint leaves"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Teaspoon",
+			"ingredientName": "Sugar"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Teaspoons",
+			"ingredientName": "Water"
+		},
+		{
+			"parts": "",
+			"amount": "3",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Mint Sprig"
+	},
+	{
+		"id": "mojito",
+		"name": "Mojito",
+		"description": "Many bars use 2 bar spoons of white or brown sugar rather than sugar syrup",
+		"method": "Slap mint, add other ingredients, churn with crushed ice",
+		"variations": "Mexican Mojito (Tequila instead of Rum), Campari Mojito (Campari instead of Rum)",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Cuban style Rum"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "8-12",
+			"amountUnits": "",
+			"ingredientName": "Mint leaves"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Soda Water"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Lime Wedge and Mint Sprig"
+	},
+	{
+		"id": "monkey-gland",
+		"name": "Monkey Gland",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Drops",
+			"ingredientName": "Absinthe"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Drops",
+			"ingredientName": "Grenadine Syrup"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "monkey-tits",
+		"name": "Monkey Tits",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Rum"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Grand Marnier"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "tablespoon",
+			"ingredientName": "Orgeat"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "moscow-mule",
+		"name": "Moscow Mule",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Ginger Beer"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Angostura Bitters (optional)"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "mudslide",
+		"name": "Mudslide",
+		"method": "Blend in blender",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Bailey's"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Kahlua/Tia Maria"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Milk"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Scoops",
+			"ingredientName": "Vanilla Ice Cream"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Scoop",
+			"ingredientName": "Crushed Ice"
+		}
+		],
+		"glass": "Wine Glass",
+		"garnish": "Chocolate Swirl"
+	},
+	{
+		"id": "my-fair-lady",
+		"name": "My Fair Lady",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Strawberry Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Egg Yolk"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "negroni",
+		"name": "Negroni",
+		"method": "Stir in mixing glass, strain",
+		"variations": "Negroni Sbagliato (Spumante instead of Gin), Negroni Malato (add Orange Juice), Negroski (Vodka instead of Gin), Cardinaloski (Vodka instead of Gin and a few Angostura Bitters drops), Cin Cyn (Cynar instead of Campari), Boulevardier (Bourbon instead of Gin), Raultini (Aperol instead of Campari)",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Gin"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Sweet Vermouth"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Campari"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Orange Twist or Orange Wedge"
+	},
+	{
+		"id": "old-fashioned",
+		"name": "Old Fashioned",
+		"method": "Muddle the Angostura soaked sugar cube with Soda Water. Gradually add ice and Whisky while gently stirring",
+		"variations": "for a quicker preparation, it's possible to use Sugar Syrup instead of the sugar cube",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Bourbon or Rye Whiskey"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Sugar Cube"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Splash",
+			"ingredientName": "Soda Water"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Orange Twist"
+	},
+	{
+		"id": "orgasm",
+		"name": "Orgasm",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Grand Marnier"
+		},
+		{
+			"parts": "1.5",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Bailey's"
+		},
+		{
+			"parts": "1.5",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau"
+		}
+		],
+		"glass": "Old Fashioned Glass/Shot Glass",
+		"garnish": "Maraschino Cherry"
+	},
+	{
+		"id": "painkiller",
+		"name": "Painkiller",
+		"method": "Shake hard and strain",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Pusser's Navy Rum"
+		},
+		{
+			"parts": "8",
+			"amount": "8",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Coconut Cream"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Grated Nutmeg"
+	},
+	{
+		"id": "paradise",
+		"name": "Paradise",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "7",
+			"amount": "3.5",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "4",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Apricot Brandy"
+		},
+		{
+			"parts": "3",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "pegu-club",
+		"name": "Pegu Club",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Triple Sec"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Orange Bitters"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "pina-colada",
+		"name": "Piña Colada",
+		"method": "Shake with crushed ice and strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Light Rum"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Coconut Rum"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "1.5",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Coconut Cream"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Cream"
+		},
+		{
+			"parts": "9",
+			"amount": "9",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Pineapple Wedge and Maraschino Cherry"
+	},
+	{
+		"id": "pink-gin",
+		"name": "Pink Gin",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Plymouth Gin"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Lemon Zest"
+	},
+	{
+		"id": "pisco-sour",
+		"name": "Pisco Sour",
+		"method": "Dry shake, wet shake and strain. No ice",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Pisco"
+		},
+		{
+			"parts": "4",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "3",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Egg White"
+		}
+		],
+		"glass": "Coupette"
+	},
+	{
+		"id": "planter-s-punch",
+		"name": "Planter's Punch",
+		"method": "Shake and strain. Add Bitters at the end",
+		"ingredients": [
+		{
+			"parts": "4.5",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Dark Rum"
+		},
+		{
+			"parts": "3.5",
+			"amount": "3.5",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "3.5",
+			"amount": "3.5",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Grenadine Syrup"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "3-4",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Maraschino Cherry and Pineapple Wedge"
+	},
+	{
+		"id": "porto-flip",
+		"name": "Porto Flip",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Brandy"
+		},
+		{
+			"parts": "8",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Porto"
+		},
+		{
+			"parts": "2",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Egg Yolk"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Grated Nutmeg"
+	},
+	{
+		"id": "ramos-fizz",
+		"name": "Ramos Fizz",
+		"method": "Dry shake, shake hard and strain in a Collins glass without ice",
+		"variations": "Silver Fizz (remove the Lime, the Milk, the Vanilla extract and the Orange Flower water)",
+		"ingredients": [
+		{
+			"parts": "4.5",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "1.5",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "1.5",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "1.5",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Cream/Milk"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Egg White"
+		},
+		{
+			"parts": "",
+			"amount": "3",
+			"amountUnits": "Dashes",
+			"ingredientName": "Orange Flower Extract"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Drops",
+			"ingredientName": "Vanilla Extract"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Soda Water"
+		}
+		],
+		"glass": "Collins Glass"
+	},
+	{
+		"id": "rob-roy",
+		"name": "Rob Roy",
+		"method": "Shake and fine strain. No ice",
+		"variations": "on the rocks (lowball and ice)",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Whisky"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Sweet Vermouth"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Maraschino Cherry or Lemon Zest"
+	},
+	{
+		"id": "rossini",
+		"name": "Rossini",
+		"method": "Shake and strain/fine strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Raspberry Puree"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Prosecco"
+		}
+		],
+		"glass": "Champagne Flute"
+	},
+	{
+		"id": "rusty-nail",
+		"name": "Rusty Nail",
+		"method": "Stir in glass",
+		"variations": "Smoky Nail (Islay Whisky instead of Blended Scotch), Clavo Ahumado (Tequila instead of Whisky), Donald Sutherland (Canadian Whiskey instead of Scotch)",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Blended Scotch Whisky"
+		},
+		{
+			"parts": "2",
+			"amount": "2.5",
+			"amountUnits": "cl",
+			"ingredientName": "Drambuie"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Lemon Twist"
+	},
+	{
+		"id": "salty-dog",
+		"name": "Salty Dog",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2.5",
+			"amount": "10",
+			"amountUnits": "cl",
+			"ingredientName": "Grapefruit Juice"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Salt rim"
+	},
+	{
+		"id": "sangria",
+		"name": "Sangria",
+		"method": "Stir fruits with the wine. Add sugar and cinnamon. Let rest for 4-6 hours. Serve over plenty of ice",
+		"variations": "White instead of Red Wine, added spirits (Vodka or Brandy usually), Champagne instead of Wine",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "",
+			"amountUnits": "",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "4",
+			"amount": "",
+			"amountUnits": "",
+			"ingredientName": "Wine"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Pineapple"
+		},
+		{
+			"parts": "",
+			"amount": "3",
+			"amountUnits": "",
+			"ingredientName": "Peaches"
+		},
+		{
+			"parts": "",
+			"amount": "4",
+			"amountUnits": "",
+			"ingredientName": "Oranges"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "",
+			"ingredientName": "Lemons"
+		},
+		{
+			"parts": "",
+			"amount": "2-3",
+			"amountUnits": "",
+			"ingredientName": "Apples"
+		},
+		{
+			"parts": "",
+			"amount": "1/2",
+			"amountUnits": "",
+			"ingredientName": "Cantaloupe"
+		},
+		{
+			"parts": "",
+			"amount": "",
+			"amountUnits": "",
+			"ingredientName": "Sugar and Cinnamon to taste"
+		}
+		],
+		"glass": "Wine Goblet"
+	},
+	{
+		"id": "sazerac",
+		"name": "Sazerac",
+		"method": "Stir in mixing glass, strain into Absinthe rinsed glass (no ice)",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Rye Whiskey or Cognac"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Absinthe"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Sugar Cube"
+		},
+		{
+			"parts": "",
+			"amount": "3",
+			"amountUnits": "Dashes",
+			"ingredientName": "Peychaud's Bitters"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Lemon Twist"
+	},
+	{
+		"id": "screaming-orgasm",
+		"name": "Screaming Orgasm",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Bailey's"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Kahlua/Tia Maria"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Amaretto Liqueur"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Milk or Half'n'Half"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Orange Slice"
+	},
+	{
+		"id": "screwdriver",
+		"name": "Screwdriver",
+		"method": "Build in glass",
+		"variations": "Mexican Screw (Tequila instead of Vodka), Sloe Screw (Sloe Gin instead of Vodka), American Screw (Bourbon instead of Vodka), French Screw (Cognac instead of Vodka), Italian Screw (Galliano instead of Vodka), Cuban Screw (Rum instead of Vodka)",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "8",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Orange Wedge"
+	},
+	{
+		"id": "sea-breeze",
+		"name": "Sea Breeze",
+		"method": "Build in glass",
+		"variations": "Variations: Madras (Orange juice instead of Grapefruit), Shore Breeze (Rum instead of Vodka and Pineapple juice instead of Grapefruit)",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Cranberry Juice"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Grapefruit Juice"
+		}
+		],
+		"glass": "Highball Glass"
+	},
+	{
+		"id": "sex-on-the-beach",
+		"name": "Sex On The Beach",
+		"method": "Shake and strain",
+		"variations": "Sex on the beach - US version (1 part each for Midori and Chambord instead of Peach liqueur and Pineapple Juice instead of Orange)",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Peach Liqueur"
+		},
+		{
+			"parts": "2",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "2",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Cranberry Juice"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Orange Slice"
+	},
+	{
+		"id": "sex-with-an-alligator",
+		"name": "Sex With An Alligator",
+		"method": "Shake Midori and Sweet and Sour Mix. Strain in glass. Layer then the Raspberry Liqueur and Jaegermeister, in this order",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Midori"
+		},
+		{
+			"parts": "",
+			"amount": "3-4",
+			"amountUnits": "Splashes",
+			"ingredientName": "Sweet and Sour Mix"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Raspberry Liqueur"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Jaegermeister"
+		}
+		],
+		"glass": "Cocktail Glass"
+	},
+	{
+		"id": "sidecar",
+		"name": "Sidecar",
+		"method": "Shake hard and strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Cognac"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Triple Sec"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Half Sugar rim on glass (your choice)"
+	},
+	{
+		"id": "singapore-sling",
+		"name": "Singapore Sling",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "8",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "4",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Cherry Brandy"
+		},
+		{
+			"parts": "2",
+			"amount": "0.75",
+			"amountUnits": "cl",
+			"ingredientName": "Cointreau/Triple Sec"
+		},
+		{
+			"parts": "2",
+			"amount": "0.75",
+			"amountUnits": "cl",
+			"ingredientName": "Benedictine"
+		},
+		{
+			"parts": "3",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Grenadine Syrup"
+		},
+		{
+			"parts": "16",
+			"amount": "12",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		},
+		{
+			"parts": "4",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Sling/Collins Glass",
+		"garnish": "Pineapple Wedge and Maraschino Cherry"
+	},
+	{
+		"id": "slippery-nipple",
+		"name": "Slippery Nipple",
+		"method": "Layer in order",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Sambuca"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Bailey's"
+		}
+		],
+		"glass": "Shot Glass"
+	},
+	{
+		"id": "spanish-coffee",
+		"name": "Spanish Coffee",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Licor 43"
+		},
+		{
+			"parts": "6",
+			"amount": "12",
+			"amountUnits": "cl",
+			"ingredientName": "Espresso Coffee"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Whipped Cream"
+		}
+		],
+		"glass": "Wine Glass",
+		"garnish": "Cinnamon or Cocoa Powder"
+	},
+	{
+		"id": "spring-bok",
+		"name": "Spring Bok",
+		"method": "Layed in order",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Creme de Menthe"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Bailey's"
+		}
+		],
+		"glass": "Shot Glass"
+	},
+	{
+		"id": "spritz",
+		"name": "Spritz",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Prosecco"
+		},
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Aperol"
+		},
+		{
+			"parts": "",
+			"amount": "Top with 1",
+			"amountUnits": "Splash",
+			"ingredientName": "Soda Water"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Orange Slice"
+	},
+	{
+		"id": "staten-island-ferry",
+		"name": "Staten Island Ferry",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Malibu/Coconut Liqueur"
+		},
+		{
+			"parts": "1",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		}
+		],
+		"glass": "Highball Glass"
+	},
+	{
+		"id": "stinger",
+		"name": "Stinger",
+		"method": "Stir in a mixing glass and fine strain",
+		"variations": "Vodka Stinger (Vodka instead of Cognac), White Spider (Vodka instead of Cognac and equal parts with Creme de Menthe)",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Cognac"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "White Creme de Menthe"
+		}
+		],
+		"glass": "Cocktail Glass/Rocks (with ice)"
+	},
+	{
+		"id": "tequila-slammer",
+		"name": "Tequila Slammer",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Tequila"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Soda Water"
+		}
+		],
+		"glass": "Old Fashioned Glass"
+	},
+	{
+		"id": "tequila-sour",
+		"name": "Tequila Sour",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Tequila"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Tablespoons",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Teaspoon",
+			"ingredientName": "Sugar"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "Lemon Wedge/Zest and Maraschino Cherry"
+	},
+	{
+		"id": "tequila-sunrise",
+		"name": "Tequila Sunrise",
+		"method": "Build in glass. Sink the Grenadine",
+		"variations": "Aperol Sunrise (Aperol instead of Grenadine), Tequila Sunset (berry Brandy instead of Grenadine), Caribbean Sunrise (Rum instead of Tequila), Vodka Sunrise (Vodka instead of Tequila), Amaretto Sunrise (Amaretto liqueur instead of Tequila), Florida Sunrise (half Pineapple and half Orange Juice), Enamorada Sunrise (Campari instead of Grenadine)",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Tequila"
+		},
+		{
+			"parts": "6",
+			"amount": "9",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Grenadine Syrup"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Orange Slice and Maraschino Cherry"
+	},
+	{
+		"id": "three-wise-men",
+		"name": "Three Wise Men",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Scotch Whisky"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Tennesse Whiskey"
+		},
+		{
+			"parts": "1",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Bourbon"
+		}
+		],
+		"glass": "Old Fashioned/Shot Glass"
+	},
+	{
+		"id": "tokyo-iced-tea",
+		"name": "Tokyo Iced Tea",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "White Rum"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Midori"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Tequila"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Lemonade/Sprite"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Lemon Wedge"
+	},
+	{
+		"id": "tom-collins",
+		"name": "Tom Collins",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Sugar Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "Top with",
+			"amountUnits": "",
+			"ingredientName": "Soda Water"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Maraschino Cherry and Lemon/Orange Slice"
+	},
+	{
+		"id": "tommy-s-margarita",
+		"name": "Tommy's Margarita",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "6",
+			"amount": "4.5",
+			"amountUnits": "cl",
+			"ingredientName": "Tequila"
+		},
+		{
+			"parts": "2",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Barspoons",
+			"ingredientName": "Agave Syrup"
+		}
+		],
+		"glass": "Cocktail/Old Fashioned Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "tvr",
+		"name": "TVR",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Tequila"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Redbull"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "vampiro",
+		"name": "Vampiro",
+		"method": "Shake and strain",
+		"ingredients": [
+		{
+			"parts": "5",
+			"amount": "5",
+			"amountUnits": "cl",
+			"ingredientName": "Tequila"
+		},
+		{
+			"parts": "7",
+			"amount": "7",
+			"amountUnits": "cl",
+			"ingredientName": "Tomato Juice"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Orange Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Teaspoon",
+			"ingredientName": "Honey"
+		},
+		{
+			"parts": "",
+			"amount": "Half slice",
+			"amountUnits": "",
+			"ingredientName": "Onion (chopped)"
+		},
+		{
+			"parts": "",
+			"amount": "A few",
+			"amountUnits": "Slices",
+			"ingredientName": "Red Chili Peppers"
+		},
+		{
+			"parts": "",
+			"amount": "A few",
+			"amountUnits": "Drops",
+			"ingredientName": "Worcestershire Sauce"
+		},
+		{
+			"parts": "",
+			"amount": "",
+			"amountUnits": "",
+			"ingredientName": "Salt"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Lime Wedge and Chili (Green or Red)"
+	},
+	{
+		"id": "vesper-martini",
+		"name": "Vesper Martini",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "8",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Gin"
+		},
+		{
+			"parts": "2",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "0.75",
+			"amountUnits": "cl",
+			"ingredientName": "Kina Lillet"
+		}
+		],
+		"glass": "Cocktail Glass/Champagne Coupe",
+		"garnish": "Lemon Twist"
+	},
+	{
+		"id": "vodka-sour",
+		"name": "Vodka Sour",
+		"method": "Shake and fine strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "1",
+			"amount": "1",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Tablespoon",
+			"ingredientName": "Sugar Syrup"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lemon Zest"
+	},
+	{
+		"id": "whisky-sour",
+		"name": "Whisky Sour",
+		"description": "Can dry shake if using egg white for better texture/foam",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "6",
+			"amountUnits": "cl",
+			"ingredientName": "Whiskey (usually American)"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Gomme Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "2",
+			"amountUnits": "Dashes",
+			"ingredientName": "Angostura Bitters (optional)"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "",
+			"ingredientName": "Egg White (optional)"
+		}
+		],
+		"glass": "Coupette/Old Fashioned Glass",
+		"garnish": "Orange Twist and Maraschino Cherry"
+	},
+	{
+		"id": "white-lady",
+		"name": "White Lady",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Dry Gin"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Triple Sec"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lemon Juice"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Lemon Twist"
+	},
+	{
+		"id": "white-martini",
+		"name": "White Martini",
+		"description": "Recipe per Phil Wood of Roxy Bar and Screen, London",
+		"method": "Shake hard and fine strain",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Dark Rum"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Mozart White Chocolate Liqueur"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Milk"
+		}
+		],
+		"glass": "Cocktail Glass",
+		"garnish": "Finely grated Chocolate"
+	},
+	{
+		"id": "white-russian",
+		"name": "White Russian",
+		"method": "Build in glass",
+		"variations": "Dirty White Mother (Tequila instead of Vodka)",
+		"ingredients": [
+		{
+			"parts": "4",
+			"amount": "4",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Kahlua/Tia Maria"
+		},
+		{
+			"parts": "2",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Milk/Cream"
+		}
+		],
+		"glass": "Old Fashioned Glass",
+		"garnish": "3 Coffee Beans"
+	},
+	{
+		"id": "woo-woo",
+		"name": "Woo Woo",
+		"method": "Build in glass",
+		"ingredients": [
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Vodka"
+		},
+		{
+			"parts": "3",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Peach Liqueur"
+		},
+		{
+			"parts": "",
+			"amount": "Fill with",
+			"amountUnits": "",
+			"ingredientName": "Cranberry Juice"
+		}
+		],
+		"glass": "Highball Glass",
+		"garnish": "Lime Wedge"
+	},
+	{
+		"id": "zombie",
+		"name": "Zombie",
+		"method": "Shake hard and strain",
+		"variations": "some recipes add Overproof Rum and Absinthe",
+		"ingredients": [
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Light Rum"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Gold Rum"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Dark Rum"
+		},
+		{
+			"parts": "1",
+			"amount": "1.5",
+			"amountUnits": "cl",
+			"ingredientName": "Apricot Brandy"
+		},
+		{
+			"parts": "1.5",
+			"amount": "2",
+			"amountUnits": "cl",
+			"ingredientName": "Lime Juice"
+		},
+		{
+			"parts": "2",
+			"amount": "3",
+			"amountUnits": "cl",
+			"ingredientName": "Pineapple Juice"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Grenadine Syrup"
+		},
+		{
+			"parts": "",
+			"amount": "1",
+			"amountUnits": "Dash",
+			"ingredientName": "Angostura Bitters"
+		}
+		],
+		"glass": "Collins Glass",
+		"garnish": "Lime Wedge"
+	}
+]
