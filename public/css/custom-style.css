@@ -30,6 +30,9 @@ a:hover {
 #recipe-garnish, #recipe-glass, #recipe-method, #recipe-description {
 	font-size: 90%;
 }
+#back-link {
+	font-size: 70%;
+}
 
 ul {
 	list-style-type: none;
