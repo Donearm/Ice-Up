@@ -6,7 +6,7 @@
 
     <ul>
       <li data-ng-repeat="recipe in recipes | filter:query">
-        <a href="#/recipes/{{recipe.id}}">{{recipe.name}}</a>
+        <a href="#/recipes/{{recipe.id}}" class="recipe-links">{{recipe.name}}</a>
       </li>
     </ul>
   </div>
