@@ -5,7 +5,7 @@
   <p id="recipe-glass">{{recipe.glass}}</p>
   <ul>
     <li data-ng-repeat="ing in recipe.ingredients">
-      <span data-ng-if="ing.parts">{{ing.parts}}part(s)/</span>{{ing.amount}}{{ing.amountUnits}} {{ing.ingredientName}}</li>
+      <span data-ng-if="ing.parts">{{ing.parts}} part(s)/</span>{{ing.amount}}{{ing.amountUnits}} {{ing.ingredientName}}</li>
   </ul>
   <p id="recipe-garnish">{{recipe.garnish}}</p>
   <!--<p data-ng-if="recipe.variations">Variations: {{recipe.variations}}</p>
