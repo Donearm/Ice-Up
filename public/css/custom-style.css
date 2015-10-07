@@ -13,11 +13,6 @@ body,input,textarea,select {
 	line-height: 1.74em;
 }
 
-#wrapper {
-	position: relative;
-	overflow: hidden;
-	width: 100%;
-}
 #menu {
 	width: 70%;
 	height: 100%;
