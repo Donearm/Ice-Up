@@ -33,13 +33,6 @@ body,input,textarea,select {
 	transition-duration: 3s;
 }
 #ingredient-line:hover { color: blue; }
-#ingredient {
-	font-style: italic;
-}
-
-#amount {
-	font-weight: bold;
-}
 
 ul {
 	list-style-type: none;
