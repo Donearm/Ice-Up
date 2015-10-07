@@ -5,7 +5,6 @@ html {
 body {
 	background-color: #fcffff;
 	font-size: 18px;
-	letter-spacing: 0.2rem;
 }
 body,input,textarea,select {
 	font-size: 16pt;
