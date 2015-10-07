@@ -13,20 +13,6 @@ body,input,textarea,select {
 	line-height: 1.74em;
 }
 
-#recipe-content {
-	position: relative;
-	width: 100%;
-	padding: 1em;
-	-webkit-transform: translateX(300px);
-	-moz-transform: translateX(300px);
-	-o-transform: translateX(300px);
-	-ms-transform: translateX(300px);
-	transform: translateX(300px);
-}
-#recipe-body {
-	width: 100%;
-}
-
 #ingredient-line {
 	color: #343434;
 	transition-property: color;
