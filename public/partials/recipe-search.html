@@ -1,11 +1,13 @@
 <div class="row">
-  <div class="form-group">
-    <input type="text" class="form-control" placeholder="search" data-ng-model="query"></input>
-  </div>
+  <div class="col-md-4 col-md-offset-4">
+    <div class="form-group">
+      <input type="text" class="form-control" placeholder="search" data-ng-model="query"></input>
+    </div>
 
-  <ul>
-    <li data-ng-repeat="recipe in recipes | filter:query">
-      <a href="#/recipes/{{recipe.id}}">{{recipe.name}}</a>
-    </li>
-  </ul>
+    <ul>
+      <li data-ng-repeat="recipe in recipes | filter:query">
+        <a href="#/recipes/{{recipe.id}}">{{recipe.name}}</a>
+      </li>
+    </ul>
+  </div>
 </div>
