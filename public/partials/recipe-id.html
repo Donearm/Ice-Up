@@ -1,13 +1,13 @@
 <div class="col-md-4 col-md-offset-4 text-center">
-  <h2>{{recipe.name}}</h2>
-  <p>{{recipe.description}}</p>
-  <p>{{recipe.method}}</p>
-  <p>{{recipe.glass}}</p>
+  <h2 id="recipe-name">{{recipe.name}}</h2>
+  <p id="recipe-description">{{recipe.description}}</p>
+  <p id="recipe-method">{{recipe.method}}</p>
+  <p id="recipe-glass">{{recipe.glass}}</p>
   <ul>
     <li data-ng-repeat="ing in recipe.ingredients">
       <span data-ng-if="ing.parts">{{ing.parts}}part(s)/</span>{{ing.amount}}{{ing.amountUnits}} {{ing.ingredientName}}</li>
   </ul>
-  <p>{{recipe.garnish}}</p>
+  <p id="recipe-garnish">{{recipe.garnish}}</p>
   <!--<p data-ng-if="recipe.variations">Variations: {{recipe.variations}}</p>
   -->
   <ul data-ng-if="recipe.variations">Variations: 

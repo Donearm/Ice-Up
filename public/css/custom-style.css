@@ -26,6 +26,10 @@ a:hover {
 	transition-duration: 3s;
 }
 #ingredient-line:hover { color: blue; }
+#recipe-name {}
+#recipe-garnish, #recipe-glass, #recipe-method, #recipe-description {
+	font-size: 90%;
+}
 
 ul {
 	list-style-type: none;
