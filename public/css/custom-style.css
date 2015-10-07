@@ -13,11 +13,6 @@ body,input,textarea,select {
 	line-height: 1.74em;
 }
 
-#menu {
-	width: 70%;
-	height: 100%;
-	padding: 10px;
-}
 #recipe-content {
 	position: relative;
 	width: 100%;
