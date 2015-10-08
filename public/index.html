@@ -14,19 +14,27 @@
 
   </head>
   <body data-ng-cloak>
-    <div class="container-fluid">
-      <div class="col-md-8 col-md-offset-2 text-center">
+    <header>
+    <div class="header-container">
+      <div class="header-content-inner">
 
-        <h1>ICE UP!</h1>
+          <h1 id="main-title">ICE UP!</h1>
 
-        <p>A quick and easy way to look up cocktail recipes</p>
+          <p id="subtitle">A quick and easy way to look up cocktail recipes</p>
 
-        <p><a href="#/about" class="btn btn-info" role="button">Show more info</a></p>
-
-      <div data-ng-view=""></div>
-
+          <p><a href="#/about" class="btn btn-info" role="button">Show more info</a></p>
       </div>
     </div>
+    </header>
+    <section class="bg-primary">
+      <div class="container">
+        <div class="row">
+
+          <div data-ng-view=""></div>
+
+        </div>
+      </div>
+    </section>
 
     <!-- AngularJS -->
     <script type="text/javascript" src="js/angular.min.js"></script>
