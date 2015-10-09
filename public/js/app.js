@@ -11,9 +11,10 @@ angular.module('iceupApp', ['ngRoute', 'ngResource']).config(['$routeProvider',
 				templateUrl: 'partials/recipe-id.html',
 				controller: 'RecipeIdController'
 			})
-			.when('/about', {
+			/*.when('/about', {
 				templateUrl: 'partials/about.html'
 			})
+			*/
 			.otherwise({ redirectTo: '/recipes'
 			});
 }]);

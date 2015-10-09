@@ -11,27 +11,55 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/custom-style.css" type="text/css">
 
+    <!-- Goolge Font -->
+    <link href='https://fonts.googleapis.com/css?family=Simonetta:900' rel='stylesheet' type='text/css'>
+
 
   </head>
   <body data-ng-cloak>
     <header>
-    <div class="header-container">
-      <div class="header-content-inner">
+    <div class="header-content">
+        <li class="dropdown" id="site-menu">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" 
+                                              role="button" 
+                                              aria-haspopup="true" 
+                                              aria-expanded="false">M 
+                                              <span 
+                                              class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#about" class="page-scroll">About</a></li>
+            <li><a href="#cocktail-list" class="page-scroll">Cocktails</a></li>
+          </ul>
+        </li>
 
-          <h1 id="main-title">ICE UP!</h1>
+        <h1 id="main-title">ICE UP!</h1>
 
-          <p id="subtitle">A quick and easy way to look up cocktail recipes</p>
+        <p id="subtitle">A quick and easy way to look up cocktail recipes</p>
 
-          <p><a href="#/about" class="btn btn-info" role="button">Show more info</a></p>
-      </div>
     </div>
     </header>
     <section class="bg-primary">
-      <div class="container">
+      <div class="cocktail-main">
         <div class="row">
 
           <div data-ng-view=""></div>
 
+        </div>
+      </div>
+    </section>
+    <section id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 col-lg-offset-1">
+            <p>Search for a cocktail name or an ingredient/garnish name in the search 
+            bar and click on the recipe's name among those who matched the 
+            query.</p>
+            <p>All cocktails' recipes have 4 main parts: the method of preparation, the 
+            glass to be used, the list of ingredients and the garnish. If there 
+            are official variations of the cocktail they will be shown at the bottom 
+            of the recipe.</p>
+            <p>©2014 <a href="http://www.gianlucafiore.it" id="copyright-link">Gianluca Fiore</a></p>
+          </div>
         </div>
       </div>
     </section>

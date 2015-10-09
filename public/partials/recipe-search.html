@@ -1,10 +1,12 @@
-<div class="col-lg-8 col-lg-offset-2 text-center">
+<div class="col-lg-4 col-lg-offset-4 text-center">
   <div class="form-group">
     <input type="text" class="form-control input-lg" placeholder="search" data-ng-model="query"></input>
   </div>
+</div>
 
+<div class="col-lg-10 col-lg-offset-1 text-center">
   <ul>
-    <li data-ng-repeat="recipe in recipes | filter:query">
+    <li data-ng-repeat="recipe in recipes | filter:query" id="cocktail-list">
       <a href="#/recipes/{{recipe.id}}" class="recipe-links">{{recipe.name}}</a>
     </li>
   </ul>
