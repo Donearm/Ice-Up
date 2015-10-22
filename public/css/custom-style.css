@@ -94,6 +94,9 @@ header .header-content {
 #recipe-garnish, #recipe-glass, #recipe-method, #recipe-description {
 	font-size: 90%;
 }
+#recipe-description {
+	font-style: italic;
+}
 .recipe-links {
 	text-shadow: 2px 2px 5px black;
 }
