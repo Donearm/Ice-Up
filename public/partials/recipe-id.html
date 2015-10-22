@@ -8,9 +8,9 @@
       <span data-ng-if="ing.parts">{{ing.parts}} part(s)/</span>{{ing.amount}}{{ing.amountUnits}} {{ing.ingredientName}}</li>
   </ul>
   <p id="recipe-garnish">{{recipe.garnish}}</p>
-  <!--<p data-ng-if="recipe.variations">Variations: {{recipe.variations}}</p>
-  -->
-  <ul data-ng-if="recipe.variations">Variations: 
+  <ul data-ng-if="recipe.variations">
+    <hr>
+    Variations
     <li data-ng-repeat="v in recipe.variations">
       {{v.name}}: {{v.variant}}
     </li>
