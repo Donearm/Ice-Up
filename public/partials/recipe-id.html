@@ -10,9 +10,10 @@
   <p id="recipe-garnish">{{recipe.garnish}}</p>
   <ul data-ng-if="recipe.variations">
     <hr>
-    Variations
+    <span id="recipe-variation-title">Variations</span>
     <li data-ng-repeat="v in recipe.variations">
-      {{v.name}}: {{v.variant}}
+      <span class="variant-name">{{v.name}}</span>: <span 
+            class="variant-text">{{v.variant}}</span>
     </li>
   </ul>
   <a href="#" id="back-link">Back to recipes' list</a>

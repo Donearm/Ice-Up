@@ -97,6 +97,12 @@ header .header-content {
 #recipe-description {
 	font-style: italic;
 }
+#recipe-variation-title {
+	font-size: 120%;
+}
+.variant-name, .variant-text {
+	font-size: 90%;
+}
 .recipe-links {
 	text-shadow: 2px 2px 5px black;
 }
