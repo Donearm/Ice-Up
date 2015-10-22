@@ -80,6 +80,11 @@ header .header-content {
 #cocktail-main {
 	background-color: #0e550e;
 }
+#cocktail-full-recipe {
+	color: #0e550e;
+	background-color: #ffffff;
+	text-shadow: 0.1px 1px 1px #0e550e;
+}
 #ingredient-line {
 	color: #343434;
 	transition-property: color;
