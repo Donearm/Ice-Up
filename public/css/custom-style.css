@@ -115,3 +115,154 @@ header .header-content {
 #copyright-link {
 	color: #0e550e;
 }
+
+/**** Ingredient Colours ****/
+span[id="Absinthe"], span[id="Absinthe/Pastis"] { color: #1dbd11; }
+span[id="Agave Syrup"] { color: #ca8f11; }
+span[id="Amaretto Liqueur"] { color: #fd6300; }
+span[id="Angostura Bitters"], span[id="Angostura Bitters (optional)"] {
+	color: #2b190d;
+}
+span[id="Aperol"] { color: #f11e07; }
+span[id="Apple Juice or Apple Cider or Apple Liqueur"] { color: #fca61c; }
+span[id="Apples"] { color: #e81d26; }
+span[id="Apricot Brandy"] { color: #a6431b; }
+span[id="Bacardi Rum"], span[id="Bacardi White Rum"] { color: #93aa9a; }
+span[id="Bailey's"] { color: #cab797; }
+span[id="Basil Leaves"] { color: #3f9c1f; }
+span[id="Benedictine"], span[id="Benedictine D.O.M."] { color: #300f00; }
+span[id="Blackberry Liqueur"] { color: #460b24; }
+span[id="Black Pepper"] { color: #525358; }
+span[id="Black Sambuca"] { color: #210e32; }
+span[id="Blended Scotch Whisky"], span[id="Bourbon"], span[id="Bourbon or Rye Whiskey"],
+span[id="Rye or Bourbon"], span[id="Rye Whiskey or Cognac"], span[id="Scotch Whisky"],
+span[id="Whiskey"], span[id="Whiskey (usually American)"], span[id="Whisky"] { 
+	color: #e96000;
+}
+span[id="Blue Curaçao"] { color: #023aac; }
+span[id="Bombay Sapphire Gin"] { color: #1ec9f1; }
+span[id="Brandy"], span[id="Brandy/Cognac"], span[id="Cognac"], span[id="VS Cognac"] { color: #e96000; }
+span[id="Brown Sugar"] { color: #7f3322; }
+span[id="Cachaça"] { color: #ead298; }
+span[id="Calvados"] { color: #ae5d04; }
+span[id="Campari"] { color: #ee0000; }
+span[id="Cantaloupe"] { color: #fe880d; }
+span[id="Celery Salt"] { color: #8a724e; }
+span[id="Chambord"] { color: #100a0c; }
+span[id="Champagne"] { color: #e0b45a; }
+span[id="Cherry"], span[id="Cherry Brandy"] { color: #51242b; }
+span[id="Chilled Espresso Coffee"], span[id="Coffee Liqueur (Kahlua/Tia Maria)"],
+span[id="Espresso Coffee"], span[id="Hot Coffee"], span[id="Kahlua"], span[id="Kahlua/Tia Maria"] { 
+	color: #3a2a2d;
+}
+span[id="Chinotto"] { color: #110b0b; }
+span[id="Citron Vodka"], span[id="Lemon Vodka"] { color: #e0ca40; }
+span[id="Coca Cola"] { color: #050503; }
+span[id="Coconut Cream"], span[id="Coconut Rum"] { color: #b8b6a1; }
+span[id="Cointreau"], span[id="Cointreau/Triple Sec"], span[id="Triple Sec"], 
+span[id="Triple Sec/Cointreau"], span[id="Triple Sec/Orange Curaçao"] { 
+	color: #e4750b;
+}
+span[id="Cranberry Juice"] { color: #bc141e; }
+span[id="Cream"], span[id="Cream/Milk"], span[id="Milk"], span[id="Milk/Cream"],
+span[id="Milk or Half'n'Half"], span[id="Whipped Cream"] { 
+	color: #ddd2d0;
+}
+span[id="Creme de Banane"] { color: #fed662; }
+span[id="Creme de Cacao"] { color: #1f1410; }
+span[id="Creme de Cassis"] { color: #281f18; }
+span[id="Creme de Menthe"] { color: #007843; }
+span[id="Creme de Violette"] { color: #513572; }
+span[id="Cuban style Rum"], span[id="Gold Rum"], span[id="Light Rum"], span[id="Light Rum (Jamaican)"],
+span[id="Rum"], span[id="Rum (preferably dark)"] { 
+	color: #e08a10;
+}
+span[id="Curaçao"] { color: #023aac; }
+span[id="Dark Creme de Cacao"] { color: #0e0c0d; }
+span[id="Dark Rum"], span[id="Dark Rum (Jamaican)"] { color: #430000; }
+span[id="Drambuie"] { color: #92510a; }
+span[id="Dry Gin"], span[id="Gin"], span[id="London Dry Gin"], span[id="Old Tom Gin"] { color: #c2c2ca; }
+span[id="Dry Vermouth"], span[id="Sweet Vermouth"], 
+span[id="Sweet Vermouth (Sweet Manhattan)/Dry Vermouth (Dry Manhattan)/1 part each (Perfect Manhattan)"],
+span[id="Vermouth"] {
+	color: #a6bf96;
+}
+span[id="Egg"], span[id="Egg Albumen"], span[id="Egg White"], span[id="Egg White (optional)"],
+span[id="Egg Yolk"] { 
+	color: #f69b6f;
+}
+span[id="Fernet Branca"] { color: #6e0700; }
+span[id="Galliano"] { color: #f0e600; }
+span[id="Ginger Ale"], span[id="Ginger Beer"] { color: #e7cb78; }
+span[id="Gomme or Sugar Syrup"], span[id="Gomme Syrup"], span[id="Simple Syrup to taste (optional)"],
+span[id="Sugar Syrup"], span[id="Sugar Syrup (optional)"] { 
+	color: #ccc194;
+}
+span[id="Gosling's Black Rum"] { color: #1d1717; }
+span[id="Grand Marnier"] { color: #96241f; }
+span[id="Grapefruit Juice"] { color: #fc8157; }
+span[id="Grenadine"], span[id="Grenadine Syrup"], span[id="Raspberry or Grenadine Syrup"] { 
+	color: #eb1732;
+}
+span[id="Guinness"] { color: #130705; }
+span[id="Honey"], span[id="Honey Syrup"] { color: #fe8f01; }
+span[id="Jack Daniel's"] { color: #e16c31; }
+span[id="Jaegermeister"] { color: #0d320f; }
+span[id="Kina Lillet"] { color: #e4bf25; }
+span[id="Kiwi Juice"] { color: #6d9002; }
+span[id="Lemonade"], span[id="Lemonade/Sprite"], span[id="Lemon Juice"], span[id="Lemons"] { 
+	color: #f9e62f;
+}
+span[id="Licor 43"] { color: #fff027; }
+span[id="Lime"], span[id="Lime Juice"], span[id="Lime or Lemon"] { color: #468302; }
+span[id="Malibu Coconut Cream"], span[id="Malibu/Coconut Liqueur"] { color: #d0d0d0; }
+span[id="Mango"] { color: #ffc805; }
+span[id="Maraschino"] { color: #d4c9b0; }
+span[id="Marsala"] { color: #ad3200; }
+span[id="Midori"] { color: #1ba32d; }
+span[id="Mint leaves"] { color: #007843; }
+span[id="Mozart White Chocolate Liqueur"] { color: #d8d4b7; }
+span[id="Myer's Rum or other Dark Rum"] { color: #853627; }
+span[id="Onion (chopped)"] { color: #fde7bd; }
+span[id="Orange Bitters"] { color: #f2801f; }
+span[id="Orange Curaçao"] { color: #f79624; }
+span[id="Orange Flower Extract"], span[id="Orange Juice"], span[id="Orange Marmalade"], 
+span[id="Oranges"], span[id="Orange Slice"] { 
+	color: #df6a0a;
+}
+span[id="Orange Vodka"] { color: #ee8a1a; }
+span[id="Oreo Cookies"] { color: #2b1f21; }
+span[id="Orgeat"] { color: #d6c39a; }
+span[id="Passion Fruit Syrup"] { color: #e59200; }
+span[id="Peaches"], span[id="Peach Liqueur"], span[id="Peach Pureé"] { color: #eebb2f; }
+span[id="Peychaud's Bitters"] { color: #af2e32; }
+span[id="Pineapple"], span[id="Pineapple Juice"] { color: #ffda5d; }
+span[id="Pisco"] { color: #d6cd94; }
+span[id="Plymouth Gin"] { color: #9eaa94; }
+span[id="Port"], span[id="Porto"], span[id="Ruby Port"], span[id="Tawny Port"] { color: #3b070c; }
+span[id="Prosecco"], span[id="Prosecco/Sparkling Wine"], span[id="Sparkling White Wine"] { color: #ffe7a6; }
+span[id="Pusser's Navy Rum"] { color: #cd4313; }
+span[id="Raspberry Juice"], span[id="Raspberry Liqueur"], span[id="Raspberry Puree"] { color: #c34e5e; }
+span[id="Redbull"] { color: #deaa04; }
+span[id="Red Chili Peppers"] { color: #f43430; }
+span[id="Red Orange Juice"] { color: #d12f3b; }
+span[id="Red Wine"], span[id="Wine"] { color: #971623; }
+span[id="Roses Lime Cordial"], span[id="Roses Lime Cordial or Sugar Syrup"] { color: #84b63f; }
+span[id="Sambuca"] { color: #dbdae0; }
+span[id="Strawberries"], span[id="Strawberry Syrup"], span[id="Strawberry Vodka"] { color: #d82412; }
+span[id="Sugar"], span[id="Sugar and Cinnamon to taste"], span[id="Sugar Cube"], 
+span[id="Sugar cube soaked with Angostura bitters"] { 
+	color: #bcbcba;
+}
+span[id="Sweet and Sour Mix"], span[id="Sweet & Sour Mix"] { color: #d4c06a; }
+span[id="Tabasco"], span[id="Tabasco (or to taste)"] { color: #a8201a; }
+span[id="Tanqueray Gin"] { color: #32af3a; }
+span[id="Tomato Juice"] { color: #c20007; }
+span[id="Vanilla Extract"], span[id="Vanilla Ice Cream"] { color: #cfc299; }
+span[id="Vodka"] { color: #edeff1; }
+span[id="Water And Lemon (made with 1 part of Lemon Juice and 4-5 parts of Water)"] { color: #e5ded5; }
+span[id="White Creme de Cacao"] { color: #c2c2ba; }
+span[id="White Creme de Menthe"] { color: #cbcdc2; }
+span[id="White Rum"] { color: #e7e5e8; }
+span[id="Worcestershire Sauce"], span[id="Worcestershire Sauce (or to taste)"] { color: #7c1300; }
+span[id="Yellow Chartreuse"] { color: #ffe84a; }
