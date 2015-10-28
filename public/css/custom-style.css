@@ -90,7 +90,9 @@ header .header-content {
 	transition-property: color;
 	transition-duration: 3s;
 }
-#recipe-name {}
+#recipe-name {
+	font-size: 200%;
+}
 #recipe-garnish, #recipe-glass, #recipe-method, #recipe-description {
 	font-size: 90%;
 }
