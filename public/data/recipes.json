@@ -200,14 +200,14 @@
 		"ingredients": [
 		{
 			"parts": "1",
-			"amount": "",
-			"amountUnits": "",
+			"amount": "8",
+			"amountUnits": "cl",
 			"ingredientName": "Aperol"
 		},
 		{
 			"parts": "1",
-			"amount": "",
-			"amountUnits": "",
+			"amount": "8",
+			"amountUnits": "cl",
 			"ingredientName": "Orange Juice"
 		}
 		],
