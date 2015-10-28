@@ -6,7 +6,6 @@ body {
 	color: #bfbfbf;
 	background-color: #0e550e;
 	font-size: 18px;
-	text-shadow: 1px 1px 1px black;
 }
 body,input,textarea,select {
 	font-size: 16pt;
@@ -98,16 +97,16 @@ header .header-content {
 #cocktail-full-recipe {
 	color: #111111;
 	background-color: #ffffff;
-	text-shadow: 0.1px 1px 1px #0e550e;
 }
 #recipe-name {
 	font-size: 200%;
-}
-#recipe-garnish, #recipe-glass, #recipe-method, #recipe-description {
-	font-size: 90%;
+	text-shadow: 1px 1px 1px black;
 }
 #recipe-description {
 	font-style: italic;
+}
+#recipe-ingredients {
+	text-shadow: 1px 1px 1px black;
 }
 #recipe-variation-title {
 	color: #0e550e;

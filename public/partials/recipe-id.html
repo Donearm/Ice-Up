@@ -12,7 +12,7 @@
       <p id="recipe-description">{{recipe.description}}</p>
       <p id="recipe-method">{{recipe.method}}</p>
       <p id="recipe-glass">{{recipe.glass}}</p>
-      <ul>
+      <ul id="recipe-ingredients">
         <li data-ng-repeat="ing in recipe.ingredients">
           <span data-ng-if="ing.parts">{{ing.parts}} 
             part(s)/</span>{{ing.amount}} {{ing.amountUnits}} <span 
