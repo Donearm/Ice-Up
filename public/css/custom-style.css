@@ -103,10 +103,14 @@ header .header-content {
 	font-style: italic;
 }
 #recipe-variation-title {
+	color: #0e550e;
 	font-size: 120%;
 }
 .variant-name, .variant-text {
 	font-size: 90%;
+}
+.variant-name {
+	color: #0e550e;
 }
 .recipe-links {
 	text-shadow: 2px 2px 5px black;
