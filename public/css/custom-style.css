@@ -100,11 +100,6 @@ header .header-content {
 	background-color: #ffffff;
 	text-shadow: 0.1px 1px 1px #0e550e;
 }
-#ingredient-line {
-	color: #343434;
-	transition-property: color;
-	transition-duration: 3s;
-}
 #recipe-name {
 	font-size: 200%;
 }
