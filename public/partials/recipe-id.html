@@ -6,7 +6,7 @@
   <ul>
     <li data-ng-repeat="ing in recipe.ingredients">
       <span data-ng-if="ing.parts">{{ing.parts}} 
-        part(s)/</span>{{ing.amount}}{{ing.amountUnits}} <span 
+        part(s)/</span>{{ing.amount}} {{ing.amountUnits}} <span 
             ng-attr-id="{{ing.ingredientName}}">{{ing.ingredientName}}</span></li>
   </ul>
   <p id="recipe-garnish">{{recipe.garnish}}</p>
