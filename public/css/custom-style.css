@@ -31,6 +31,11 @@ ul {
 .form-control:focus {
 	border-color: #111111;
 }
+/* Font Awesome icons */
+.fa-home, .fa-info {
+	color: #ffffff;
+	text-shadow: 2px 5px 5px #0e550e;
+}
 
 header {
 	position: relative;
@@ -70,10 +75,6 @@ header .header-content {
 	position: absolute;
 	top: 0;
 	left: 15px;
-}
-.fa-home, .fa-info {
-	color: #ffffff;
-	text-shadow: 2px 5px 5px #0e550e;
 }
 #main-title, #subtitle {
 	font-family: "Simonetta" cursive;
