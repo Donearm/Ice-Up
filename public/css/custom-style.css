@@ -19,6 +19,9 @@ a:hover {
 	color: #ffffff;
 	text-decoration: underline;
 }
+a:visited {
+	color: #ffffff;
+}
 ul {
 	list-style-type: none;
 	padding: 0;
