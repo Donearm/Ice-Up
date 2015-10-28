@@ -4,6 +4,7 @@ html {
 }
 body {
 	color: #bfbfbf;
+	background-color: #0e550e;
 	font-size: 18px;
 	text-shadow: 1px 1px 1px black;
 }
@@ -46,6 +47,18 @@ header .header-content {
 	padding: 100px 15px;
 	text-align: center;
 }
+#header-recipe {
+	position: relative;
+	width: 100%;
+	padding: 1px 15px 15px 15px;
+	text-align: center;
+	background-image: url("../images/alcohol-bar-drinks.jpg");
+	background-position: center;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}
 
 #site-menu {
 	text-align: left;
@@ -54,15 +67,9 @@ header .header-content {
 	top: 0;
 	left: 15px;
 }
-.dropdown {
-	list-style-type: none;
-}
-.dropdown-toggle {
-	color: #0e550e;
-	text-shadow: 1px 1px 1px black;
-}
-.dropdown-toggle a:hover {
-	color: #0e550e;
+.fa-home, .fa-info {
+	color: #ffffff;
+	text-shadow: 2px 5px 5px #0e550e;
 }
 #main-title, #subtitle {
 	font-family: "Simonetta" cursive;
