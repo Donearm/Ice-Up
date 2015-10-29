@@ -139,6 +139,7 @@ header .header-content {
 }
 #about {
 	padding-top: 15px;
+	padding-bottom: 10px;
 	color: #111111;
 	background-color: #ffffff;
 	-moz-border-bottom-right-radius: 1.5em;
