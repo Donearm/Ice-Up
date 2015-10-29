@@ -131,6 +131,7 @@ header .header-content {
 	color: #0e550e;
 }
 .recipe-links {
+	font-size: 120%;
 	text-shadow: 2px 2px 5px black;
 }
 #back-link {
