@@ -157,6 +157,10 @@ header .header-content {
 #about a {
 	color: #0e550e;
 }
+/* Close button on about page */
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default {
+	border-color: #0e550e;
+}
 
 /**** Ingredient Colours ****/
 span[id="Absinthe"], span[id="Absinthe/Pastis"] { color: #1dbd11; }
