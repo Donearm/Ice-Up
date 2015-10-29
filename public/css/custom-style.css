@@ -138,9 +138,23 @@ header .header-content {
 	font-size: 70%;
 }
 #about {
-	padding-top: 5%;
+	padding-top: 15px;
+	color: #111111;
+	background-color: #ffffff;
+	-moz-border-bottom-right-radius: 1.5em;
+	-webkit-border-bottom-right-radius: 1.5em;
+	border-bottom-right-radius: 1.5em;
+	-moz-border-bottom-left-radius: 1.5em;
+	-webkit-border-bottom-left-radius: 1.5em;
+	border-bottom-left-radius: 1.5em;
+	-moz-border-top-right-radius: 0.2em;
+	-webkit-border-top-right-radius: 0.2em;
+	border-top-right-radius: 0.2em;
+	-moz-border-top-left-radius: 0.2em;
+	-webkit-border-top-left-radius: 0.2em;
+	border-top-left-radius: 0.2em;
 }
-#copyright-link {
+#about a {
 	color: #0e550e;
 }
 
