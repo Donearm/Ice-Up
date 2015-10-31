@@ -159,6 +159,9 @@ header .header-content {
 #about a {
 	color: #0e550e;
 }
+.credits {
+	font-size: 75%;
+}
 /* Close button on about page */
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default {
 	border-color: #0e550e;
