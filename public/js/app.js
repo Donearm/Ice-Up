@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('iceupApp', ['ngRoute', 'ngResource']).config(['$routeProvider',
+angular.module('iceupApp', ['ngRoute', 'ngResource', 'angularSmoothscroll']).config(['$routeProvider',
 	function ($routeProvider) {
 		$routeProvider
 			.when('/recipes', {
