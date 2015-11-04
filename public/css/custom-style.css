@@ -31,10 +31,6 @@ ul {
 	border-color: #111111;
 }
 /* Font Awesome icons */
-.fa-info {
-	color: #ffffff;
-	text-shadow: 2px 5px 5px #0e550e;
-}
 .fa-arrow-down {
 	color: #ffffff;
 	text-shadow: 2px 5px 5px #0e550e;
@@ -76,13 +72,6 @@ header .header-content {
 	-o-background-size: cover;
 }
 
-#site-menu {
-	text-align: left;
-	width: 300px;
-	position: absolute;
-	top: 0;
-	left: 15px;
-}
 #main-title, #subtitle {
 	font-family: "Simonetta" cursive;
 	font-weight: 900;
@@ -149,26 +138,13 @@ header .header-content {
 	color: #0e550e;
 	font-size: 70%;
 }
-#about {
-	padding-top: 15px;
-	padding-bottom: 10px;
-	color: #111111;
-	background-color: #ffffff;
-	-moz-border-bottom-right-radius: 1.5em;
-	-webkit-border-bottom-right-radius: 1.5em;
-	border-bottom-right-radius: 1.5em;
-	-moz-border-bottom-left-radius: 1.5em;
-	-webkit-border-bottom-left-radius: 1.5em;
-	border-bottom-left-radius: 1.5em;
-	-moz-border-top-right-radius: 0.2em;
-	-webkit-border-top-right-radius: 0.2em;
-	border-top-right-radius: 0.2em;
-	-moz-border-top-left-radius: 0.2em;
-	-webkit-border-top-left-radius: 0.2em;
-	border-top-left-radius: 0.2em;
-}
-#about a {
-	color: #0e550e;
+footer {
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	height: 2em;
+	text-align: center;
+	padding-top: 1em;
 }
 .credits {
 	font-size: 75%;

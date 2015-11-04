@@ -11,9 +11,6 @@ angular.module('iceupApp', ['ngRoute', 'ngResource', 'angularSmoothscroll']).con
 				templateUrl: 'partials/recipe-id.html',
 				controller: 'RecipeIdController'
 			})
-			.when('/about', {
-				templateUrl: 'partials/about.html'
-			})
 			.otherwise({ redirectTo: '/recipes'
 			});
 }]);
