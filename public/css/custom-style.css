@@ -1,11 +1,12 @@
 html {
 	min-width: 100%;
 	min-height: 100%;
+	background: url("../images/outlets.png") #0e550e;
 }
+
 body {
 	color: #bfbfbf;
-	background-color: #0e550e;
-	font-size: 18px;
+	background: inherit;
 }
 body,input,textarea,select {
 	font-size: 16pt;
@@ -90,9 +91,7 @@ header .header-content {
 #scroll-arrow {
 	margin-bottom: 10%;
 }
-#cocktail-main {
-	background-color: #0e550e;
-}
+#cocktail-main { }
 #cocktail-full-recipe {
 	padding-top: 20px;
 	color: #111111;
@@ -144,7 +143,6 @@ footer {
 	width: 100%;
 	height: 2em;
 	text-align: center;
-	padding-top: 1em;
 }
 .credits {
 	font-size: 75%;
