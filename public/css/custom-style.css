@@ -302,3 +302,13 @@ span[id="White Creme de Menthe"] { color: #cbcdc2; }
 span[id="White Rum"] { color: #e7e5e8; }
 span[id="Worcestershire Sauce"], span[id="Worcestershire Sauce (or to taste)"] { color: #7c1300; }
 span[id="Yellow Chartreuse"] { color: #ffe84a; }
+/* A few ids which I applied no specific color but list here as a 
+ * remainder that they exist (and perhaps will be styled too one day)
+*/
+span[id="Crushed Ice"] {}
+span[id="Fruit Juice of choice"] {}
+span[id="Salt"] {}
+span[id="Seltz Water"] {}
+span[id="Soda Water"] {}
+span[id="Tonic Water"] {}
+span[id="Water"] {}
