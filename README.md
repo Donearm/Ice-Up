@@ -25,13 +25,13 @@ A simple recipe, the Daiquiri. Rum + Lime juice + Sugar syrup. Martini glass, si
 
 * We are informed that we should be using Appleton Estate Reserve Rum. Thanks, I will choose the Rum myself.
 * Lime juice should be fresh. Of course it should, it's obvious for a bartender. If you don't know why, you suck at bartending.
-* There's a list of flavours, which should immediately coming to mind of a professional bartender just by reading the list of ingredients. I don't need them listed.
+* There's a list of flavours, which should immediately come to mind of a professional bartender just by reading the list of ingredients. I don't need them listed.
 * There's a list of categories this cocktail purportedly falls into (_tropical_, _strength_, _difficulty_, _hours_ etc.). Nobody that is a professional needs all this. Besides, how is the Daiquiri of a "medium" difficulty?
 * Picture of the drink. No thanks, just tell me "Martini Glass, Dark Rum, Lime juice and Syrup" and I will instantly know that the final drink will be yellowish. I will provide with the style of garnish that I like too, no need to show me how you prefer.
 * A video, above the recipe, of the preparation. Seriously. In the time that it takes to watch it I can make a couple of Daiquiris.
 * Various links to methods, recipes and, God forbid, more videos on the sidebar. I just need to know how to make a Daiquiri, what's with the Boulevardier recipe?
 
-A lot of unnecessary text and media that distract you from what really matters: ingredients, glass, garnish and preparation. That's it.
+A lot of unnecessary text and media that distract you from what really matters: ingredients, glass, garnish and preparation. That's it. Another example:
 
 ![](screenshots/caipirinha-drinksmixer.jpg)
 
@@ -47,7 +47,7 @@ Better. No fancy images and videos, the central element is the actual recipe, as
 Better looking but again, a lot of unnecessary content
 
 * Shopping list, online basket, find a supermarket...I just need to make a Mai Tai.
-* Calories. If you care about your body shape you should stick to virgin cocktails. Or coffee.
+* Calories. Pointless, if you care about your body shape you should stick to virgin cocktails. Or coffee.
 * Preparation time, rating, difficulty. It's all relative, it doesn't make any sense to specify those things.
 * Tbsp. And "juice of half a lime". Tablespoons are not flexible, and not all spoons are made equal. Same thing for the limes, not all have the same size, the same amount of juice etc. Give me parts and/or precise measures please.
 
@@ -61,7 +61,7 @@ Beautiful. Stylish. If only wasn't for...
 
 Did you see the pattern? All those websites list maybe hundreds or even thousands of recipes for the most rare and unheard of cocktails yet they fail all in the same ways: by adding too much content, by not being flexible and by trying to convince you that the way they make that specific cocktail is the one you should follow. A real bartender don't need any of that, simply a schematic listing of the ingredients, the garnish, the glass, the method and, eventually, the official variations of a cocktail. He/she will figure out the rest according to personal tastes, rules of the bar and his/her own fantasy.
 
-This is where ICE UP! comes in.
+This is where **ICE UP!** comes in.
 
 ![](screenshots/cubalibre-iceup.jpg)
 
