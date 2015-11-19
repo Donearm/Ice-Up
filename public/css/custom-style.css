@@ -152,6 +152,15 @@ footer {
 	border-color: #0e550e;
 }
 
+@media only screen and (max-width: 1024px) {
+	header {
+		background-image: url("../images/alcohol-bar-drinks-background-small.jpg");
+	}
+	#header-recipe {
+		background-image: url("../images/alcohol-bar-drinks-background-small.jpg");
+	}
+}
+
 /**** Ingredient Colours ****/
 span[id="Absinthe"], span[id="Absinthe/Pastis"] { color: #1dbd11; }
 span[id="Agave Syrup"] { color: #ca8f11; }
