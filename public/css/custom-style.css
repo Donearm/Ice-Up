@@ -255,7 +255,7 @@ span[id="Jack Daniel's"] { color: #e16c31; }
 span[id="Jaegermeister"] { color: #0d320f; }
 span[id="Kina Lillet"] { color: #e4bf25; }
 span[id="Kiwi Juice"] { color: #6d9002; }
-span[id="Lemonade"], span[id="Lemonade/Sprite"], span[id="Lemon Juice"], span[id="Lemons"] { 
+span[id="Lemonade"], span[id="Lemonade/Sprite"], span[id="Lemon Juice"], span[id="Lemons"], span[id="Lemon"] { 
 	color: #f9e62f;
 }
 span[id="Licor 43"] { color: #fff027; }
@@ -265,14 +265,14 @@ span[id="Mango"] { color: #ffc805; }
 span[id="Maraschino"] { color: #d4c9b0; }
 span[id="Marsala"] { color: #ad3200; }
 span[id="Midori"] { color: #1ba32d; }
-span[id="Mint leaves"] { color: #007843; }
+span[id="Mint leaves"], span[id="Mint Sprig"] { color: #007843; }
 span[id="Mozart White Chocolate Liqueur"] { color: #d8d4b7; }
 span[id="Myer's Rum or other Dark Rum"] { color: #853627; }
 span[id="Onion (chopped)"] { color: #fde7bd; }
 span[id="Orange Bitters"] { color: #f2801f; }
 span[id="Orange Curaçao"] { color: #f79624; }
 span[id="Orange Flower Extract"], span[id="Orange Juice"], span[id="Orange Marmalade"], 
-span[id="Oranges"], span[id="Orange Slice"] { 
+span[id="Oranges"], span[id="Orange Slice"], span[id="Orange"] { 
 	color: #df6a0a;
 }
 span[id="Orange Vodka"] { color: #ee8a1a; }
