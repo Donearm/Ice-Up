@@ -4502,6 +4502,12 @@
 		"id": "moscow-mule",
 		"name": "Moscow Mule",
 		"method": "Build in glass",
+		"variations": [
+			{
+				"name": "Mexican Mule",
+				"variant": "Tequila instead of Vodka"
+			}
+		],
 		"ingredients": [
 		{
 			"parts": "4",
