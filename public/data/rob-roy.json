@@ -2,6 +2,12 @@
 	"id": "rob-roy",
 	"name": "Rob Roy",
 	"method": "Shake and fine strain. No ice",
+	"variations": [
+		{
+			"name": "Affinity",
+			"variant": "Dry and Sweet Vermouth instead of just Sweet"
+		}
+	],
 	"ingredients": [
 	{
 		"parts": "5",
