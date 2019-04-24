@@ -82,6 +82,6 @@ One of my bartending mentors when teaching me how to make cocktails always finis
 Where is it then?
 =================
 
-[See it, and use it, here](http://www.iceup.eu)
+[See it, and use it, here](public/index.html)
 
 Gianluca Fiore, © 2014-2016, all rights reserved.
